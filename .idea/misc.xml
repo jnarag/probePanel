@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="$USER_HOME$/miniforge3/envs/genbank" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="$USER_HOME$/miniforge3/envs/genbank" project-jdk-type="Python SDK" />
+  <component name="RSettings">
+    <option name="interpreterPath" value="/usr/local/bin/R" />
+  </component>
+</project>

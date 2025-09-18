@@ -1,0 +1,5581 @@
+Gracilimus
+Oreoryzomys sp. j JCO-2025
+Oreoryzomys sp. h JCO-2025
+unclassified Oreoryzomys
+Heterocephalus sp.
+Sicista sp. 1 YD-2025
+Sicista sp. w YD-2025
+Sicista sp. m YD-2025
+Geomys sp.
+unclassified Geomys
+Oecomys trabeatus
+Oecomys sp. h TG-2025
+Thomasomys vulcani ssp. a WPR-2025
+Alticola sp. y BP-2025
+unclassified Alticola
+Vandeleuria sp.
+Reithrodontomys sumichrasti complex sp. Clade IV
+Rattus sp. R3
+unclassified Sicista
+Peromyscus maniculatus gambelii x Peromyscus maniculatus rubidus
+Peromyscus maniculatus bairdii x Peromyscus maniculatus nubiterrae
+Peromyscus maniculatus gambelii
+Eozapus sp. w YS-2025
+unclassified Eozapus
+Eozapus setchuanus vicinus
+Rhagomys jequitiba
+Crunomys sp. Mindoro
+Crunomys sp. Mekongga
+Crunomys sp. t TG-2025
+unclassified Crunomys
+Ctenomys chechehet
+Calomyscus sp. Group B
+Microdipodops sp. r JL-2024
+Microdipodops sp. p JL-2024
+Microdipodops sp. o JL-2024
+Microdipodops sp. a JL-2024
+unclassified Microdipodops
+Heterocephalus sp. p OM-2024
+Heterocephalus sp. a OM-2024
+unclassified Heterocephalus
+Oxymycterus akodontius
+Lophuromys sp.
+Sundamys sp. AG-2024
+unclassified Sundamys
+Maxomys sp. AG-2024
+Oligoryzomys sp. n. MW-2024
+Stenocranius raddei
+Stenocranius gregalis
+Montemys delectorum
+Mictomicrotus liangshanensis
+Montemys
+Mictomicrotus
+Stenocranius
+Daptomys mussoi
+Daptomys ferreirai
+Daptomys
+Congomys verschureni
+Congomys
+Bramus lutescens
+Bramus fuscocapillus
+Bramus
+Anteliomys wardi
+Anteliomys proditor
+Anteliomys olitor
+Anteliomys custos
+Anteliomys chinensis
+Anteliomys
+Wiedomys pyrrhorinos
+Vandeleuria nolthenii
+Tamiops minshanicus
+Rhipidomys ybyrae
+Rhabdomys chakae
+Reithrodontomys wagneri
+Reithrodontomys darienensis
+Pseudohydromys musseri
+Pithecheir parva
+Phyllotis darwinii
+Petaurista lena
+Petaurista grandis
+Peromyscus gambelii
+Oecomys speciosus
+Oecomys flavicans
+Neotamias siskiyou
+Neotamias ruficaudus
+Neotamias panamintinus
+Neotamias ochrogenys
+Neotamias grisescens
+Neotamias durangae
+Neotamias cratericus
+Neotamias cinereicollis
+Neotamias bulleri
+Neotamias alpinus
+Neacomys elieceri
+Nannospalax cilicicus
+Microtus yuldaschi
+Microtus afghanus
+Mesocapromys nana
+Maxomys inflatus
+Maxomys inas
+Maxomys baeodon
+Maxomys alticola
+Mallomys aroaensis
+Lenothrix cana
+Ichthyomys orientalis
+Heterogeomys lanius
+Heterogeomys hispidus
+Heterogeomys heterodus
+Heterogeomys cavator
+Gerbilliscus afer
+Galenomys garleppii
+Cryptomys pretoriae
+Cryptomys nimrodi
+Cryptomys mahali
+Crunomys fallax
+Craseomys smithii
+Craseomys andersoni
+Calomyscus darvishi
+Calomys sorella
+Brachytarsomys villosus
+Alticola montosus
+Alticola albicauda
+Alexandromys shantaricus
+Alexandromys montebelli
+Alexandromys kikuchii
+Neodon sp. m XW-2024
+Neodon sp. ku XW-2024
+Neodon sp. ko XW-2024
+Sicista concolor leathemi
+Thomasomys sp. o MP-2024
+Thomasomys sp. i MP-2024
+Alexandromys oeconomus altaicus
+Alexandromys oeconomus suntaricus
+Alexandromys oeconomus ratticeps
+Alexandromys oeconomus oeconomus
+Alexandromys oeconomus mehelyi
+Alexandromys oeconomus medius
+Alexandromys oeconomus macfarlani
+Alexandromys oeconomus koreni
+Alexandromys oeconomus kjusjurensis
+Alexandromys oeconomus kamtschaticus
+Alexandromys oeconomus hahlovi
+Alexandromys oeconomus dauricus
+Alexandromys oeconomus anikini
+Micromys pygmaeus
+Thomasomys sp. F DR-2024
+Thomasomys sp. A DR-2024
+Alexandromys fortis pelliceus
+Alexandromys fortis michnoi
+Alexandromys fortis fortis
+Alexandromys fortis calamorum
+Craseomys rex
+Alexandromys sachalinensis
+Vernaya foramena
+Capromys geayi
+Typhlomys taxuansis
+Selevinia betpakdalaensis
+Selevinia
+Nannospalax sp.
+unclassified Nannospalax
+Geomys bursarius wisconsinensis
+Leimacomys buettneri
+Leimacomys
+Leimacomyinae
+Murinae sp.
+Uromys sp.
+unclassified Uromys
+Hydromys sp.
+unclassified Hydromys
+Mirzamys louiseae
+Mirzamys
+Anonymomys mindorensis
+Anonymomys
+Dasymys montanus
+Batomys russatus
+Pseudohydromys pumehanae
+Pelomys minor
+Berylmys mackenziei
+Zelotomys woosnami
+Taeromys hamatus
+Thomasomys nicefori
+Thomasomys ischyrus
+Thomasomys incanus
+Thomasomys contradictus
+Thomasomys sp. 8 DR-2024
+Thomasomys sp. 7 DR-2024
+Thomasomys sp. 4 DR-2024
+Thomasomys sp. 10 DR-2024
+Thomasomys aff. kalinowskii
+Thomasomys aff. ischyrus
+Thomasomys aff. cinereus
+Thomasomys aff. caudivarius
+Thomasomys aff. aureus
+Akodon diauarum
+Ctenomys uco
+Abrocoma uspallata
+Abrocoma schistacea
+Abrocoma famatina
+Reithrodontomys sp.
+Heteromys sp.
+Dendromus cf. lovati
+Dendromus sp. n GM-2024
+Dendromus sp. u GM-2024
+Dendromus sp. indet. 4 GM-2024
+Dendromus sp. indet. 3 GM-2024
+Dendromus sp. indet. 1 GM-2024
+Dendromus sp. indet. 2 GM-2024
+Thomomys bottae tularosae
+Thomomys bottae sturgisi
+Thomomys bottae spatiosus
+Thomomys bottae scotophilus
+Thomomys bottae robertbakeri
+Thomomys bottae pervarius
+Thomomys bottae pectoralis
+Thomomys bottae limitaris
+Thomomys bottae lachuguilla
+Thomomys bottae confinalis
+Geomys breviceps dutcheri
+Geomys brazensis pratincolus
+Geomys brazensis brazensis
+Geomys brazensis
+Geomys arenarius brevirostris
+Geomys arenarius arenarius
+Cratogeomys castanops pratensis
+Cratogeomys castanops perplanus
+Cratogeomys castanops parviceps
+Cratogeomys castanops lacrimalis
+Cratogeomys castanops dalquesti
+Cratogeomys castanops angusticeps
+Spermophilus sp. v VM-2024
+Spermophilus ralli
+Spermophilus pygmaeus planicola
+Spermophilus brevicauda intermedius
+Spermophilus brevicauda iliensis
+Cricetomys sp. 1 PG-2024
+Tscherskia sp.
+unclassified Tscherskia
+Nothocricetulus migratorius
+Nothocricetulus
+Urocricetus tibetanus
+Urocricetus alticola
+Tscherskia triton ningshaanensis
+Thomasomys sp. 4 SEP-2024a
+Thomasomys sp. 3 SEP-2024a
+Thomasomys sp. 2 SEP-2024a
+Thomasomys sp. 1 SEP-2024a
+Spalax giganteus
+Microryzomys sp.
+unclassified Microryzomys
+Dactylomys sp.
+unclassified Dactylomys
+Chibchanomys sp.
+Spermophilus sp. n. OE-2023
+Calomyscus kermanensis
+Oecomys osgoodi
+Oecomys sp. n TG-2024
+Oecomys sp. m TG-2024
+Oecomys sp. g TG-2024
+Mus musculus domesticus x Mus musculus castaneus
+Cricetomys sp.
+Microtus irani ssp. d AM-2023
+Microtus schidlovskii schidlovskii
+Microtus schidlovskii karamani
+Microtus irani irani
+Rhipidomys sp.
+Nephelomys pectoralis
+Grammomys polionops
+Calomyscus kiabii
+Nannospalax hungaricus hungaricus
+Nannospalax hungaricus hercegovinensis
+Nannospalax bulgaricus
+Nannospalax serbicus thermaicus
+Nannospalax hellenicus nopcsai
+Nannospalax insularis
+Nannospalax montanoserbicus
+Nannospalax monticola
+Nannospalax serbicus serbicus
+Nannospalax serbicus
+Nannospalax turcicus
+Nannospalax hellenicus hellenicus
+Nannospalax hellenicus
+Mus cf. gratus
+Dasyprocta ruatanica
+Dasyprocta kalinowski
+Peromyscus maniculatus rubidus
+Punomys lemminus
+Mallomys sp.
+unclassified Mallomys
+Neotoma bryanti intermedia
+Synaptomys cooperi stonei
+Peromyscus gossypinus megacephalus
+Sciurus carolinensis pennsylvanicus
+Reithrodontomys sumichrasti dorsalis
+Sciurus carolinensis hypophaeus
+Tamias striatus griseus
+Glaucomys volans texensis
+Reithrodontomys mexicanus orinus
+Reithrodontomys megalotis pectoralis
+Peromyscus maniculatus abietorum
+Reithrodontomys mexicanus howelli
+Sciurus niger vulpinus
+Sigmodon hispidus virginianus
+Sciurus granatensis chiriquensis
+Nyctomys sumichrasti nitellinus
+Microtus pinetorum auricularis
+Reithrodontomys fulvescens aurantius
+Clethrionomys gapperi ochraceus
+Clethrionomys gapperi carolinensis
+Callosciurus prevostii sarawakensis
+Reithrodontomys megalotis longicaudus
+Microtus pinetorum scalopsoides
+Tamiasciurus hudsonicus minnesota
+Sigmodon zanjonensis
+Oecomys sp. j JS-2023
+Microtus montanus arizonensis
+Coendou roosmalenorum
+Vernaya nushanensis
+Vernaya meiguites
+unclassified Vernaya
+Gerbillus sp. 1 MP-2023
+Juliomys sp. CMARF 3528
+Graphiurus sp.
+Eliurus sp.
+Ctenomys verzi
+Ctenomys eileenae
+Microcavia jayat
+Microcavia maenas
+Microcavia shiptoni
+Cricetomys sp. 3 PG-2023
+Mus sp. e SHB-2023
+Heliosciurus sp.
+unclassified Heliosciurus
+Funisciurus sp.
+Frateromys fratrorum
+Frateromys
+Taeromys dominator
+Dipus sagitta ssp. n. AL-2023
+Dipus sagitta zaissanensis
+Dipus sagitta usuni
+Dipus sagitta ubsanensis
+Dipus sagitta turanicus
+Dipus sagitta nogai
+Dipus sagitta lagopus
+Dipus sagitta deasyi
+Fukomys sp.
+Otomys cf. yaldeni DM-2023
+Otomys cf. cheesmani DM-2023
+Ctenomys pulcer
+Trinomys mirapitanga
+Trinomys albispinus minor
+Trinomys albispinus albispinus
+Ctenomys heniacamiare
+Euryoryzomys sp.
+Otomys sp. FMNH 211259
+Otomys sp. FMNH 210780
+Arvicola italicus
+Ctenomys osvaldoreigi
+Ochromyscus sp. 3 niveiventris
+unclassified Ochromyscus
+Ochromyscus
+Microtus drummondii
+Ctenomys johannis
+Ctenomys coludo
+Calomyscus behzadi
+Stylodipus telum turovi
+Stylodipus telum falzfeini
+Lasiopodomys anglicus
+Mus sp. TK0000685
+Mus sp. TK0000665
+Mus sp. TK0000031
+Mus sp. TK0000671
+Mus sp. TK0000478
+Mus sp. TK0000477
+Mus sp. TK0000663
+Mus sp. TK0000674
+Mus sp. TK0000667
+Mus sp. TK0000666
+Mus sp. TK0000664
+Mus sp. TK0000394
+Mus sp. TK0000013
+Taterillus harringtoni
+Gerbillus sp. 1 LG
+Berylmys latouchei
+Gerbillus pusillus
+Dremomys rufigenis rufigenis
+Callosciurus caniceps caniceps
+Dremomys rufigenis laomache
+Dremomys rufigenis adamsoni
+Dremomys rufigenis opimus
+Tamiops mcclellandii collinus
+Tamiops mcclellandii leucotis
+Callosciurus caniceps bimaculatus
+Tamiops mcclellandii mcclellandii
+Dremomys rufigenis belfieldi
+Tamiops mcclellandii kongensis
+Callosciurus caniceps concolor
+Tamiops mcclellandii barbei
+Mindomys kutuku
+Mus musculus musculus x Mus musculus molossinus
+Palawanomys furvus
+Palawanomys
+Tarsomys echinatus
+Rattus mindorensis
+Rattus everetti everetti
+Rattus sp. FMNH 145736
+Rattus sp. FMNH 145735
+Rattus sp. FMNH 145727
+Tarsomys sp. FMNH 208755
+Tarsomys sp. FMNH 208825
+Tarsomys sp. FMNH 194803
+unclassified Tarsomys
+Rattus sp. FMNH 145719
+Rattus sp. FMNH 145720
+Rattus sp. FMNH 135720
+Rattus sp. FMNH 135719
+Murinae sp. FMNH 208788
+Murinae sp. FMNH 194804
+Murinae sp. FMNH 194802
+Peromyscus laceianus
+Petinomys sp. ES-2022
+unclassified Petinomys
+Gerbilliscus cf. kempi AM-2022
+Gerbillus sp. AM-2022
+Ammodillus imbellis
+Ammodillus
+Neodon sp. ny XW-2022
+Otomys sp. FMNH 208669
+Otomys auratus
+Hadrosciurus sp. 3 EFA-2022
+unclassified Hadrosciurus
+Allocricetulus eversmanni pseudocurtatus
+Mus harennensis
+Mus cf. gerbillus JK-2022
+Mus gerbillus
+Thomomys bottae limpiae
+Graphiurus cf. raptor TZJA034
+Thomasomys lojapiuranus
+Neodon sp. KIZ GW180020
+Neodon sp. KIZ GW180006
+Neodon sp. KIZ DD180012
+Neodon sp. KIZ DD180008
+Holochilus nanus
+Eupetaurus nivamons
+Microtus lavernedii
+Ctenomys yatesi
+Ctenomys lessai
+Ctenomys andersoni
+Ctenomys sp. MH11
+Ctenomys sp. MH15
+Ctenomys sp. PC5
+Ctenomys sp. MH14
+Ctenomys sp. PC1
+Ctenomys sp. PC4
+Ctenomys sp. PC7
+Ctenomys sp. PC9
+Ctenomys sp. Anielo
+Thryonomyidae sp. HcriT2144_IC
+Ctenomys sp. t IT-2022
+Cricetomys sp. 1 KJG-2022
+Thryonomyidae sp. TswiThry4_IC
+Thryonomyidae sp. PorcepicT2144_IC
+Thryonomyidae sp. TswiThry9_IC
+unclassified Thryonomyidae
+Peromyscus sp. t MALT-2022
+Peromyscus sp. b MALT-2022
+Peromyscus sp. CNMA 43176
+Peromyscus sp. CNMA 43154
+Peromyscus felipensis
+Peromyscus collinus
+Peromyscus amplus
+Akodon sp. IAvH-CT-06097
+Akodon sp. IAvH-CT-20087
+Akodon sp. IAvH-CT-06096
+Neacomys sp. IAvH-CT-35592
+Neacomys sp. IAvH-CT-35591
+Heterogeomys dariensis
+Heterogeomys
+Thomasomys niveipes
+Nephelomys meridensis
+Nephelomys childi
+Cricetomys sp. T2175
+Cricetomys sp. T2146
+Cricetomys sp. T2687
+Cricetomys sp. T1683
+Cricetomys sp. T1735
+Cricetomys sp. T1755
+Cricetomys sp. T1682
+Cricetomys sp. T1761
+Cricetomys sp. T1760
+Cricetomys sp. T1667
+Cricetomys sp. T1666
+Oxymycterus willkaurco
+Oxymycterus nigrifrons
+Oxymycterus juliacae
+Chingawaemys sp. LAV1667
+unclassified Chingawaemys
+Chingawaemys
+Praomys daltoni complex sp. ecotype derooi
+Praomys daltoni complex sp. clade C1
+Praomys daltoni complex sp. clade A
+Thomasomys burneoi
+Thomasomys sp. 1 DR-2022
+Thomasomys pyrrhonotus
+Thomasomys praetor
+Thomasomys apeco
+Thomasomys antoniobracki
+Peromyscus polionotus albifrons
+Oecomys sp. GC-2022
+Ctenomys sp. LagunaBrava
+Ctenomys plebiscitum
+Mus sp. indet. Clade124
+Mus sp. indet. Clade59
+Mus sp. indet. Clade58
+Mus sp. indet. Clade123
+Mus sp. indet. Clade61
+Mus sp. indet. Clade68
+Mus sp. indet. Clade65
+Zelotomys sp. indet. Clade126
+Praomys sp. indet. Clade125
+Otomys sp. indet. Clade73
+Otomys sp. indet. Clade71
+Otomys sp. indet. Clade76
+Graphiurus sp. indet. Clade26
+Graphiurus sp. indet. Clade25
+Graphiurus sp. indet. Clade24
+Grammomys sp. indet. Clade129
+Grammomys sp. indet. Clade95
+Grammomys sp. indet. Clade128
+Grammomys sp. indet. Clade92
+Dendromus sp. indet. Clade30
+Dasymys sp. indet. Clade90
+Arvicanthis sp. indet. Clade81
+Acomys sp. indet. Clade41
+Reithrodontomys garichensis
+Meriones dahli
+Peromyscus ensinki
+Peromyscus greenbaumi
+Myodes rufocanus
+Craseomys
+Neodon namchabarwaensis
+Neodon chayuensis
+Arvicolinae gen. n. sp. l XW-2022
+Arvicolinae gen. n. sp. b XW-2022
+unclassified Arvicolinae
+Neotoma bryanti x Neotoma lepida
+Ctenomys brasiliensis
+Neusticomys sp. CTUA2621
+Neusticomys sp. CTUA2619
+Neusticomys sp. CTU4274
+Neusticomys sp. MSB250000
+Chibchanomys sp. MUSA18964
+Chibchanomys sp. MUSA13864
+unclassified Chibchanomys
+Anotomys leander
+Anotomys
+Rheomys mexicanus
+Ichthyomys tweedii
+Ichthyomys hydrobates
+Chibchanomys trichotis
+Chibchanomys orcesi
+Chibchanomys
+Chilomys sp. w NT-2025
+Chilomys sp. p NT-2024
+Chilomys sp. n NT-2023
+Chilomys sp. g NT-2022
+unclassified Chilomys
+Muridae incertae sedis
+Scarturus sp. Asp_IR1
+Scarturus heptneri
+Scarturus elater dzungariae
+Scarturus elater zaisanicus
+Scarturus indica aralychensis
+Scarturus indica
+Scarturus elater caucasicus
+Scarturus elater strandi
+Scarturus toussi
+Scarturus aulacotis
+Scarturus hotsoni
+Scarturus williamsi
+Scarturus euphraticus
+Scarturus elater elater
+Pygeretmus shitkovi
+Makalata sp. 1 RDS-2021
+Makalata sp. 5 RDS-2021
+Makalata sp. 6 RDS-2021
+Makalata sp. 11 RDS-2021
+Makalata sp. 2 RDS-2021
+Makalata sp. 10 RDS-2021
+Makalata sp. 12 RDS-2021
+Makalata sp. 3 RDS-2021
+Makalata sp. 13 RDS-2021
+Galea sp. CMIAO196
+Euneomys fossor
+Akodon oenos
+Glaucomys oregonensis ssp. fu SY-2022
+Glaucomys oregonensis flaviventris
+Glaucomys oregonensis oregonensis
+Sicista cimlanica
+Chaetodipus goldmani ssp. y JL-2022
+Chaetodipus goldmani ssp. p JL-2022
+Chaetodipus pernix rostratus
+Chaetodipus pernix pernix
+Chaetodipus goldmani goldmani
+Mastomys natalensis complex sp. natBVI
+Mastomys natalensis complex sp. natBV
+Mastomys natalensis complex sp. natBIV
+Mastomys natalensis complex sp. natAIII
+Mastomys natalensis complex sp. natAI
+Mastomys huberti complex sp. hubC
+Mastomys huberti complex sp. hubB
+Mastomys huberti complex sp. hubA
+Mastomys erythroleucus complex sp. eryE
+Mastomys erythroleucus complex sp. eryD
+Mastomys erythroleucus complex sp. eryC
+Serengetimys pernanus
+Serengetimys
+Peromyscus pseudocrinitus
+Reithrodontomys cherrii
+Peromyscus maniculatus x Peromyscus polionotus
+Peromyscus maniculatus nubiterrae x Peromyscus maniculatus bairdii
+Mus cf. gerbillus TZ2018CS33
+Mus cf. gerbillus FMNH 219474
+Mus cf. gerbillus FMNH 219199
+Thomasomys cf. incanus DR-2021
+Thomasomys shallqukucha
+Thomasomys pagaibambensis
+Nephelomys ricardopalmai
+Nannospalax tuncelicus
+Typhlomys fengjiensis
+Micromys sp. y ZL-2021
+unclassified Micromys
+Scarturus caprimulga
+unclassified Scarturus
+Leptosciurus
+Echinosciurus
+Parasciurus
+Hesperosciurus
+Microtus californicus sanctidiegi
+Microtus californicus kernensis
+Chionomys sp. l AB-2021
+unclassified Chionomys
+Coendou cf. quichua ICN 2003
+Coendou cf. quichua UIS OLA24
+Coendou cf. quichua UIS OLA23
+Coendou cf. quichua UIS 945
+Coendou cf. quichua 'unvouchered quills'
+Coendou cf. quichua MHN-UCa1616
+Priapomys leonardi
+Priapomys
+Ctenomys pontifex
+Ctenomys sp. 5 MT-2021
+Ctenomys sp. 3 MT-2021
+Ctenomys sp. 2 MT-2021
+Ctenomys sp. 1 MT-2021
+Microtus mogollonensis
+Heteromys sp. ib MG-2021
+Ctenomys talarum group sp. CC-2021
+Ctenomys sp. 'chasiquensis' CC-2021
+Niviventer sp. VN4004M620
+Niviventer sp. VN3973M589
+Colomys eisentrauti
+Colomys wologizi
+Colomys lumumbai
+unclassified Colomys
+Nilopegamys plumbeus
+Nilopegamys
+Acomys mullah
+Ctenomys sp. 4 MT-2021
+Peromyscus carolpattonae
+Lophiomys imhausi maremortum
+Castoroides ohioensis
+Castoroides
+Glaucomys oregonensis ssp. s MH-2021
+Glaucomys oregonensis ssp. l MH-2021
+Glaucomys oregonensis ssp. c MH-2021
+Peromyscus sp. MVZ 235925
+Peromyscus sp. MVZ 223386
+Peromyscus mexicanus totontepecus
+Baiomys brunneus
+Ctenomys sp. 2 AO-2021
+Ctenomys sp. 1 AO-2021
+Ctenomys sp. 4D AO-2021
+Ctenomys sp. 5B AO-2021
+Ctenomys sp. AO292
+Ctenomys sp. 5 AO-2021
+Neacomys rosalindae
+Neacomys auriventer
+Notomys macrotis
+Lophuromys cf. cinereus FMNH 227728
+Lophuromys cf. cinereus FMNH 227712
+Lophuromys cf. cinereus FMNH 189348
+Lophuromys cf. cinereus FMNH 189324
+Lophuromys cf. cinereus FMNH 189349
+Lophuromys cf. cinereus FMNH 203774
+Lophuromys cf. cinereus FMNH 195092
+Lophuromys cf. cinereus FMNH 195093
+Lophuromys cf. cinereus FMNH 204060
+Lophuromys cf. cinereus FMNH 171657
+Lophuromys verhageni
+Notomys amplus
+Conilurus albipes
+Leporillus apicalis
+Notomys longicaudatus
+Pseudomys gouldii
+Bibimys torresi
+Neomicroxus bogotensis
+Neomicroxus
+Dipodomys merriami parvus
+Oecomys matogrossensis
+Brucepattersonius griserufescens
+Brucepattersonius nebulosus
+Dendromus sp. indet. 14 GV-2021
+Dendromus sp. indet. 12 GV-2021
+Dendromus cf. vulturnus GV-2021
+Dendromus sp. indet. 9 GV-2021
+Dendromus sp. indet. 7 GV-2021
+Dendromus sp. indet. 6 GV-2021
+Dendromus sp. indet. 5 GV-2021
+Dendromus sp. indet. 4 GV-2021
+Dendromus sp. indet. 3 GV-2021
+Dendromus sp. indet. 2 GV-2021
+Dendromus sp. indet. 13 GV-2021
+Dendromus sp. indet. 11 GV-2021
+Dendromus sp. indet. 10 GV-2021
+Dendromus sp. indet. 1 GV-2021
+Dendromus cf. whytei GV-2021
+Dendromus cf. uthmoelleri GV-2021
+Dendromus cf. pongolensis GV-2021
+Dendromus cf. kivu GV-2021
+Dendromus cf. ayresi GV-2021
+Dendromus pecilei
+Dendromus ruppi
+Dendromus oreas
+Dendromus messorius
+Dendromus lachaisei
+Dendromus kumasi
+Calomyscus sp. m47
+Calomyscus sp. m50
+Calomyscus sp. m49
+Aconaemys sp. UACH8300
+unclassified Aconaemys
+Akodon kadiweu
+Neacomys sp. n. JC-2021
+Microtus richardsoni arvicoloides
+Dicrostonyx torquatus ungulatus
+Mus cf. kasaicus JK-2021
+Reithrodon typicus
+Geoxus michaelseni
+Geoxus annectens
+Zelotomys sp. ISCED1760
+unclassified Zelotomys
+Thryonomys sp. ANG0318
+Dendromus sp. ISCED1602
+Dendromus sp. ISCED1601
+Dendromus sp. ANG0043
+Dendromus sp. ANG0020
+Rhabdomys sp. PT2016x3
+Rhabdomys sp. MK33
+Rhabdomys sp. MK15
+Rhabdomys sp. MK30
+unclassified Rhabdomys
+Mastomys angolensis
+Dendromus sp. a JK-2021
+Gerbilliscus sp. g JK-2021
+Gerbilliscus sp. l JK-2021
+Gerbilliscus sp. h JK-2021
+Gerbilliscus sp. b JK-2021
+Gerbilliscus sp. a JK-2021
+Gerbilliscus brantsii griquae
+Gerbilliscus taborae
+Gerbilliscus inclusus
+Aethomys stannarius
+Aethomys bocagei
+Octodon sp. Andean
+Octodon bridgesi complex sp. Coastal
+Octodon ricardojeda complex sp. Malalcahuello
+Octodon ricardojeda complex sp. s.s. Argentina
+Octodon ricardojeda
+Loxodontomys
+Paynomys
+Graphiurus sp. AHxRLMar151
+Graphiurus sp. ANG0122
+Graphiurus sp. ANG0121
+Graphiurus sp. TZ32912
+Graphiurus sp. TZ29797
+Graphiurus sp. TZ28241
+Graphiurus sp. TZ28231
+Graphiurus sp. TZ28230
+Graphiurus sp. TZ28227
+Graphiurus sp. TZ27950
+Graphiurus sp. TZ27949
+Graphiurus sp. TZ27948
+Graphiurus sp. TZ27947
+Graphiurus sp. TZ27946
+Graphiurus sp. TZ27870
+Graphiurus sp. TZ27610
+Graphiurus sp. TZ27580
+Graphiurus sp. TZ27579
+Graphiurus sp. TZ27578
+Graphiurus sp. TA863
+Graphiurus sp. TA663
+Graphiurus sp. TA463
+Graphiurus sp. TA388
+Graphiurus sp. KE756
+Graphiurus sp. KE692
+Graphiurus sp. KE311
+Graphiurus sp. KE307
+Graphiurus sp. KE306
+Graphiurus sp. KE195
+Graphiurus sp. KE194
+Graphiurus sp. KE176
+Graphiurus sp. ISCED8224
+Graphiurus sp. ETH1565
+Graphiurus sp. ETH0708
+Graphiurus sp. RS0860
+Graphiurus sp. KE118
+Graphiurus sp. JS140
+Graphiurus sp. JS027
+Graphiurus sp. ETH0658
+Graphiurus sp. ET114
+Graphiurus sp. PT2016x29
+Graphiurus sp. MOZ210
+Graphiurus sp. TZ28201
+Graphiurus sp. TZ28200
+Graphiurus sp. TZ27645
+Graphiurus sp. TZ27633
+Graphiurus sp. TZ27632
+Graphiurus sp. KE088
+Graphiurus sp. KE041
+Graphiurus sp. ANG0007
+Graphiurus sp. ETH0600
+Graphiurus sp. CMR6
+Graphiurus sp. CMR5
+Graphiurus sp. CMR21
+Graphiurus sp. CMR19
+Graphiurus sp. CMR17
+Graphiurus sp. CMR1
+Graphiurus sp. ETH1341
+Graphiurus sp. ETH1315
+Graphiurus sp. ETH1314
+Graphiurus sp. ETH0501
+Graphiurus sp. ETH1594
+Graphiurus sp. ETH0400
+Fukomys sp. ISCED1208
+Typhlomys cf. daloushanensis KIZ 1112103
+Rhynchomys labo
+Grammomys dryas
+Chiropodomys pusillus
+Sciurus anomalus syriacus
+Calomys cerqueirai
+Phyllotis sp. posticalis/rupestris AO-2021
+Phyllotis sp. 2 AO-2021
+Phyllotis sp. 1 AO-2021
+Phyllotis vaccarum
+Oxymycterus sp. TK130587
+Oxymycterus sp. MNVA104
+Oxymycterus sp. MHNCI4857
+Oxymycterus sp. MHNCI3597
+Oxymycterus sp. MCNU3839
+Oxymycterus sp. MCNU2325
+Oxymycterus sp. CZFURB0942
+Niviventer bukit
+Oxymycterus sp. MCNU3840
+Oxymycterus sp. MCNU2829
+Oxymycterus sp. MCNU2324
+Oxymycterus sp. MN67496 VA109
+Oxymycterus sp. MN67494 VA94
+Oxymycterus sp. MN67493 VA85
+Oxymycterus sp. MN67489 VA10
+Oxymycterus sp. MN LBCE4646
+Oxymycterus sp. MN LBCE2496
+Oxymycterus sp. MN65544 LBCE2498
+Oxymycterus sp. MN65543 LBCE2497
+Oxymycterus sp. MN65542 LBCE2495
+Oxymycterus sp. MN65541 LBCE2494
+Oxymycterus sp. MHNCI3600
+Oxymycterus sp. MHNCI3599
+Oxymycterus sp. MHNCI3598
+Oxymycterus sp. MHNCI3596
+Oxymycterus sp. TK121752
+Oxymycterus sp. TK121751
+Oxymycterus sp. MVZ191466
+Oxymycterus sp. MVZ191465
+Oxymycterus sp. MVZ183136
+Oxymycterus sp. MVZ183135
+Meriones psammophilus
+Tamiasciurus hudsonicus x Tamiasciurus douglasii
+Hybomys basilii
+Gerbillus mesopotamiae
+Lemniscomys cf. roseveari AH-2020
+Isthmomys flavidus
+Taeromys sp. n. HH-2020
+Bunomys prolatus
+Rhagomys sp. n. NT-2020
+unclassified Rhagomys
+Sigmodontinae gen. n. sp. QCAZ 8720
+Sigmodontinae gen. n. sp. m NT-2020
+Sigmodontinae gen. n. sp. e NT-2020
+Otomys sp. Mount Kenya
+Hybomys sp. n. VVB-2020
+unclassified Hybomys
+Grammomys selousi
+Heptaxodontidae
+Elasmodontomys obliquus
+Brotomys voratus
+Boromys offella
+Elasmodontomys
+Boromys
+Brotomys
+Geocapromys columbianus
+Dryomys nitedula kurdistanicus
+Dryomys nitedula pictus
+Dryomys nitedula bilkjewiczi
+Otomys uzungwensis
+Myomyscus sp. VVB-2020
+Stenocephalemys zimai
+Stenocephalemys sokolovi
+Stenocephalemys ruppi
+Orientallactaga balikunica complex sp. 3 JJC-2020
+Orientallactaga balikunica complex sp. 2 JJC-2020
+Orientallactaga balikunica complex sp. 1 JJC-2020
+Orientallactaga
+Lophuromys pseudosikapusi
+Lophuromys chercherensis
+Lophuromys brunneus
+Niviventer mekongis
+Niviventer fengi
+Akodon sp. 1 JJM-2020
+Calomys boliviae
+Lemniscomys mittendorfi
+Lemniscomys linulus
+Neacomys minutus complex sp. 'upriver'
+Neacomys minutus complex sp. 'downriver'
+Neacomys sp. 2 MN-2020
+Neacomys sp. 1 MN-2020
+Neacomys xingu
+Neacomys vossi
+Neacomys marajoara
+Proechimys gr. goeldii NA-2020
+Chaetodipus ammophilus
+Graphiurus sp.'C' NVH-2020
+Neusticomys peruviensis peruviensis
+Euryoryzomys sp. MTR048
+Euryoryzomys sp. MTR046
+Euryoryzomys legatus
+Lemmus lemmus chernovi
+Simosciurus
+Hadrosciurus
+Leptosciurus pucheranii
+Parasciurus nayaritensis
+Parasciurus arizonensis
+Leptosciurus similis
+Microsciurus sabanillae
+Leptosciurus otinus
+Leptosciurus mimulus
+Guerlinguetus brasiliensis
+Guerlinguetus
+Peromyscus sonoriensis
+Peromyscus labecula
+Peromyscus purepechus
+Sundasciurus robinsoni
+Sundasciurus altitudinis
+Rattus sp. NH 2147
+Rattus korinchi
+Rattus hoogerwerfi
+Ctenomys thalesi
+Ctenomys contrerasi
+Ctenomys bidaui
+Hylomyscus thornesmithae
+Hylomyscus stanleyi
+Hylomyscus pygmaeus
+Hylomyscus mpungamachagorum
+Micaelamys granti
+unclassified Nannomys
+Oligoryzomys sp. UV14992
+Oligoryzomys sp. UV13585
+Oligoryzomys sp. UV14527
+Praomys sp. 14RD1511
+Lophuromys sp. 14RD1647_14RD1649
+Lophuromys sp. 14RD1662_14RD1667_14RD1669
+Cricetomys sp. 14RD1513
+Typhlomys huangshanensis
+Murinae gen. n. sp. n. KR-2020
+Taeromys sp. n. KR-2020
+unclassified Taeromys
+Eropeplus canus
+Eropeplus
+Baiyankamys
+Xenuromys barbatus
+Papagomys armandvillei
+Xenuromys
+Papagomys
+Margaretamys parvus
+Rattus timorensis
+Taeromys punicans
+Margaretamys beccarii
+Taeromys callitrichus
+Niviventer lepturus
+Stenocephalemys sp. A AB-2020
+Stenocephalemys sp. A VK-2020
+Chaetodipus durangae
+Chaetodipus collis
+Rhabdomys intermedius
+Millardia kondana
+Melomys halmaheraensis
+Chiropodomys sp. CBGP R4959
+Hylomyscus simus group sp. 2 VVN-2020
+Hylomyscus simus group sp. 1 VVN-2020
+Hylomyscus parvus group sp. 3 VVN-2020
+Hylomyscus parvus group sp. 2 VVN-2020
+Hylomyscus parvus group sp. 1 VVN-2020
+Hylomyscus sp. 7 VVN-2020
+Hylomyscus sp. 2 VVN-2020
+Hylomyscus sp. 1 VVN-2020
+Hylomyscus cf. anselli VVN-2020
+Hylomyscus cf. alleni VVN-2020
+Hylomyscus heinrichorum
+Thomasomys sp. QCAZ17493/MEPN12053
+Thomasomys sp. SF15
+Thomasomys sp. QCAZ16330
+Thomasomys sp. QCAZ16329
+Thomasomys sp. QCAZ16328
+Thomasomys sp. QCAZ16231
+Thomasomys sp. QCAZ16230
+Thomasomys sp. MEPN12742
+Thomasomys sp. MEPN12722
+Thomasomys sp. QCAZ17490/MECN5853
+Thomasomys sp. QCAZ17489/MECN5852
+Thomasomys salazari
+Thomasomys hudsoni
+Thomasomys cinereus
+Thomasomys auricularis
+Gerbilliscus cf. grique MMM-2019
+Gerbilliscus cf. angolae MMM-2019
+Calomyscus sp. Group G
+Calomyscus sp. Group D
+Calomyscus sp. Group C
+Calomyscus cf. bailwardi Group B
+unclassified Hystrix (in: rodents)
+unclassified Thallomys
+unclassified Heteromys
+unclassified Kunsia
+unclassified Eothenomys
+unclassified Apodemus
+Lenomys meyeri
+Haeromys minahassae
+Lenomys
+Haeromys
+Pithecheir melanurus
+Echiothrix leucura
+Taeromys taerae
+Rattus xanthurus
+Terricola
+Ctenomys emilianus
+Prometheomys schaposchnikovi
+Alticola strelzovi
+unclassified Hapalomys
+Nelsonia goldmani
+Alticola lemminus vicina
+Alticola lemminus lemminus
+Aegialomys baroni
+Aegialomys ica
+Lophuromys dudui
+Funisciurus sp. LIK280
+Grammomys sp. LIK243
+Funisciurus sp. LIK194
+Thamnomys sp. LIK165
+Grammomys sp. LIK94
+Arvicola persicus
+Neotoma phenax
+Millardia sp. AA-2019
+unclassified Millardia
+Dipodomys nitratoides exilis
+Dipodomys nitratoides brevinasus
+unclassified Aethomys
+unclassified Chiropodomys
+unclassified Mesomys
+unclassified Abrothrix
+unclassified Spalax
+unclassified Thryonomys
+unclassified Dasyprocta
+unclassified Galea
+unclassified Ototylomys
+unclassified Neacomys
+unclassified Callosciurus
+unclassified Proechimys
+unclassified Fukomys
+unclassified Octodon
+unclassified Parotomys
+unclassified Lophuromys
+unclassified Microtus
+unclassified Myospalax
+unclassified Uranomys
+unclassified Allactaga
+unclassified Spermophilus
+unclassified Acomys
+unclassified Bathyergus
+unclassified Pelomys
+unclassified Phyllomys
+unclassified Eliurus
+unclassified Neotoma
+unclassified Mindomys
+unclassified Scapteromys
+unclassified Rhipidomys
+unclassified Dephomys
+unclassified Dasymys
+unclassified Berylmys
+unclassified Tatera
+unclassified Cryptomys
+unclassified Lemmus
+unclassified Sigmodontomys
+unclassified Thrichomys
+unclassified Holochilus
+unclassified Apomys
+unclassified Cricetomys
+unclassified Mastomys
+unclassified Calomys
+unclassified Arvicanthis
+unclassified Sciurus
+unclassified Grammomys
+unclassified Nephelomys
+unclassified Juliomys
+unclassified Monticolomys
+unclassified Reithrodontomys
+unclassified Oryzomys
+unclassified Otomys
+unclassified Myoprocta
+unclassified Glaucomys
+unclassified Sundasciurus
+unclassified Ratufa
+unclassified Zygodontomys
+unclassified Mesocricetus
+unclassified Neotomodon
+unclassified Thamnomys
+unclassified Neusticomys
+unclassified Nectomys
+unclassified Dipus
+unclassified Marmota
+unclassified Petromyscus
+unclassified Deltamys
+unclassified Phloeomys
+unclassified Heliophobius
+unclassified Jaculus
+unclassified Chiromyscus
+unclassified Coendou
+unclassified Dryomys
+unclassified Phodopus
+unclassified Gerbilliscus
+unclassified Vandeleuria
+unclassified Meriones
+unclassified Akodon
+unclassified Steatomys
+unclassified Myodes
+unclassified Stenocephalemys
+unclassified Paraleptomys
+unclassified Eligmodontia
+unclassified Wilfredomys
+unclassified Calomyscus
+unclassified Euneomys
+unclassified Thomasomys
+unclassified Funisciurus
+unclassified Makalata
+unclassified Peromyscus
+unclassified Graphiurus
+unclassified Anomalurus
+unclassified Myomyscus
+unclassified Cavia
+unclassified Bandicota
+unclassified Taterillus
+unclassified Gerbillus
+unclassified Oxymycterus
+unclassified Cricetulus
+unclassified Euryoryzomys
+unclassified Tylomys
+unclassified Leopoldamys
+unclassified Melomys
+unclassified Pogonomys
+unclassified Phyllotis
+unclassified Oecomys
+unclassified Chinchilla
+unclassified Dendromus
+unclassified Praomys
+unclassified Necromys
+unclassified Tamiasciurus
+unclassified Lemniscomys
+unclassified Tachyoryctes
+unclassified Wiedomys
+unclassified Rhizomys
+unclassified Trinomys
+Microtus mustersi
+Neodon shergylaensis
+Neodon nyalamensis
+Neodon medogensis
+Neodon liaoruii
+Neodon sp. bo BGI-2019
+Neodon bershulaensis
+unclassified Neodon
+Pogonomys mollipilosus
+Bunomys torajae
+Bunomys coelestis
+Meriones grandis
+Ctenomys minutus x Ctenomys flamarioni
+Sicista nordmanni
+Praomys jacksoni complex sp. 'Ic'
+Praomys jacksoni complex sp. 'Ib'
+Praomys jacksoni complex sp. 'Ia'
+Praomys jacksoni complex sp. 'IVc'
+Praomys jacksoni complex sp. 'IVb'
+Praomys jacksoni complex sp. 'IVa'
+Praomys jacksoni complex sp. 'IIb'
+Praomys jacksoni complex sp. 'IIa'
+Apodemus nigrus
+Akodon kotosh
+Akodon josemariarguedasi
+Sicista caudata
+Biswamoyopterus biswasi
+Biswamoyopterus
+Oligoryzomys sp. CIT 683
+unclassified Oligoryzomys
+Oxymycterus itapeby
+Echinosciurus yucatanensis
+Rattus sp. KINA93
+Rattus sp. KINA776
+Rattus sp. KINA620
+Rattus sp. KINA1120
+Rattus sp. KINA360
+Chiropodomys sp. KINA618
+Arvicanthis niloticus complex sp. 'C2-C4'
+Arvicanthis rufinus
+Arvicanthis sp. 'Masai Mara'
+Oligoryzomys aff. microtis MN76216
+Oligoryzomys aff. microtis MN76206
+Oligoryzomys aff. microtis MN76194
+Oligoryzomys aff. microtis MN76212
+Oligoryzomys aff. microtis MN76192
+Oligoryzomys sp. MNLM1559
+Oligoryzomys aff. microtis MN76224
+Oligoryzomys aff. microtis MN76223
+Oligoryzomys aff. microtis MN76200
+Oligoryzomys aff. microtis MN76203
+Oligoryzomys aff. microtis MN76217
+Oligoryzomys aff. microtis MN76209
+Oligoryzomys aff. microtis MN76210
+Oligoryzomys aff. microtis MN76926
+Oligoryzomys aff. microtis MN76925
+Oligoryzomys aff. microtis MN76197
+Oligoryzomys aff. microtis MN76227
+Oligoryzomys aff. microtis MN76207
+Oligoryzomys aff. microtis MN76229
+Oligoryzomys aff. microtis MN76205
+Oligoryzomys aff. microtis MN76213
+Oligoryzomys aff. microtis MN76226
+Oligoryzomys aff. nigripes NH-2019
+Oligoryzomys aff. andinus NH-2019
+Oligoryzomys costaricensis
+Oligoryzomys arenalis
+Arvicanthis aff. niloticus 'C2C4'
+Arvicanthis sp. 'Metahara'
+Arvicanthis sp. 'Menangesha'
+Arvicanthis sp. 'ANI6'
+Eliurus tsingimbato
+Neodon forresti
+Peromyscus sp. n. MAL-2019
+Cricetulus barabensis ssp. A NP-2019
+Cricetulus barabensis barabensis
+Cricetulus barabensis xinganensis
+Rattus ranjiniae
+Spermophilus brevicauda
+Monticolomys sp. AMCC103578
+Allactaga severtzovi
+Allactaga sp. A-20-mk1
+Monticolomys sp. MF-2019
+Mus musculus domesticus x Mus spretus
+Apomys sp. Mt. Tallulah
+Apomys sp. Mt. Wood
+Apomys sp. Mt. Mangibok
+Apomys sp. Mt. Abra de Ilog
+Funambulus tristriatus
+Callosciurus quinquestriatus
+Callosciurus pygerythrus
+Callosciurus melanogaster
+Callosciurus albescens
+Platacanthomys lasiurus
+Platacanthomys
+Tylomys tumbalensis
+Tachyoryctes daemon
+Ctenomys fochi
+Ammospermophilus nelsoni
+Heteromys oasicus
+Rhipidomys austrinus
+Dipus deasyi
+Stenocephalemys sp. A DK-2019
+Microryzomys altissimus
+Acomys louisae
+Acomys cf. kempi KE089
+Acomys cf. kempi KE075
+Acomys cf. kempi KE889
+Acomys cf. kempi KE888
+Acomys cf. kempi KE144
+Acomys cf. kempi KE142
+Acomys cf. kempi KE151
+Acomys cf. kempi KE906
+Acomys cf. kempi KE074
+Acomys cf. kempi ET104
+Acomys cf. kempi KE136
+Acomys cf. kempi KE125
+Acomys cf. kempi KE111
+Acomys cf. kempi LAV2938
+Acomys cf. kempi LAV2933
+Acomys cf. kempi LAV3126
+Acomys cf. mullah ETH0041
+Acomys cf. mullah ETH1226
+Acomys cf. mullah ETH1225
+Acomys cf. cineraceus KE708
+Acomys cf. cineraceus KE738
+Acomys cf. cineraceus K4_3340
+Acomys cf. wilsoni KE028
+Acomys cf. wilsoni KE030
+Acomys cf. wilsoni TZ27522
+Acomys cf. wilsoni TZ27882
+Acomys cf. wilsoni TZ27881
+Acomys cf. wilsoni KE042
+Acomys cf. mullah ET184
+Acomys cf. mullah ET183
+Acomys cf. mullah ET169
+Acomys cf. mullah ET167
+Acomys cf. mullah ET164
+Acomys cf. mullah ET163
+Acomys cf. wilsoni E030
+Acomys cf. wilsoni E042
+Acomys sp. B (cahirinus group)
+Acomys sp. A (cahirinus group)
+Acomys cf. mullah ETH0060
+Acomys sp. cahirinus group-N Ethiopia
+Acomys cf. kempi KE883
+Acomys cf. kempi KE824
+Acomys sp. ignitus group-Babile
+Acomys cf. kempi ETH0390
+Acomys cf. kempi ETH0332
+Acomys cf. mullah ET168
+Acomys cf. mullah ETH0033
+Acomys cf. cineraceus KE734
+Acomys cf. cineraceus KE709
+Acomys sp. ignitus group-SE Ethiopia
+Dendromus sp. 02_Rb DK-2018
+Dendromus sp. 17_02 DK-2018
+Lophuromys simensis
+Lophuromys menageshae
+Scarturus vinogradovi
+Scarturus
+Phyllomys kerri
+Meriones sp. n. MAO-2018
+Eothenomys colurnus
+Eothenomys sp. BBS16028
+Eothenomys sp. BBS16023
+Eothenomys sp. BBS16022
+Eothenomys sp. BBS16010
+Eothenomys sp. BBS16003
+Eothenomys sp. JYBCP0318
+Eothenomys sp. JYBCP0317
+Eothenomys sp. JYBCP0310
+Eothenomys sp. LJS16012
+Eothenomys sp. LJS16014
+Eothenomys sp. LJS16001
+Eothenomys sp. SM15005
+Eothenomys sp. SM15004
+Mus sp. musculoides-minutoides DPL-2017
+Mastomys sp. DPL-2017
+Grammomys sp. DPL-2017
+Gerbilliscus cf. kempi DPL-2017
+Aethomys sp. DPL-2017
+Acomys cf. cineraceus DPL-2017
+Dephomys sp. USNM 584604
+Dephomys sp. USNM 584603
+Proechimys sp. VPT 4788
+Proechimys sp. VPT 4765
+Proechimys sp. PSV 224
+Proechimys sp. PSV 200
+Proechimys sp. MUSM 45776
+Proechimys sp. MUSM 45775
+Proechimys sp. MUSM 45774
+Proechimys sp. MUSM 45773
+Proechimys sp. MUSM 45772
+Proechimys sp. MUSM 45771
+Proechimys sp. MUSM 45770
+Proechimys sp. MUSM 45769
+Proechimys sp. MUSM 45768
+Proechimys sp. MUSM 45767
+Proechimys sp. MUSM 45765
+Proechimys sp. MUSM 45764
+Proechimys sp. MUSM 45763
+Proechimys sp. MUSM 45762
+Proechimys sp. MUSM 45761
+Proechimys sp. MUSM 45758
+Proechimys sp. MUSM 45757
+Proechimys sp. MUSM 45756
+Proechimys sp. MUSM 45755
+Proechimys sp. MUSM 45754
+Proechimys sp. MUSM 45753
+Proechimys sp. MUSM 45035
+Proechimys sp. MUSM 45034
+Proechimys sp. MUSM 45033
+Proechimys sp. MUSM 45032
+Proechimys sp. MUSM 45031
+Proechimys sp. MUSM 45030
+Proechimys sp. MUSM 45029
+Proechimys sp. MUSM 45028
+Proechimys sp. MUSM 45027
+Proechimys sp. MUSM 45026
+Proechimys sp. MUSM 45025
+Proechimys sp. MUSM 45024
+Proechimys sp. MUSM 45023
+Proechimys sp. MUSM 45022
+Proechimys sp. MUSM 45021
+Proechimys sp. MUSM 45020
+Proechimys sp. MUSM 45019
+Proechimys sp. MUSM 45018
+Proechimys sp. MUSM 45016
+Proechimys sp. MUSM 45015
+Proechimys sp. MUSM 45014
+Proechimys sp. MUSM 45013
+Proechimys sp. MUSM 45012
+Proechimys sp. MUSM 45011
+Proechimys sp. MUSM 45010
+Proechimys sp. MUSM 45008
+Proechimys sp. MUSM 45007
+Proechimys sp. MUSM 45006
+Proechimys sp. MUSM 45005
+Proechimys sp. MUSM 45004
+Proechimys sp. MUSM 45003
+Proechimys sp. MUSM 45002
+Proechimys sp. MUSM 45001
+Proechimys sp. MUSM 45000
+Proechimys sp. MUSM 44999
+Proechimys sp. MUSM 44998
+Proechimys sp. MUSM 44997
+Proechimys sp. MUSM 44996
+Proechimys sp. MUSM 44995
+Proechimys sp. MUSM 44994
+Proechimys sp. MUSM 44993
+Proechimys sp. MUSM 44992
+Proechimys sp. MUSM 24459
+Proechimys sp. MUSM 24445
+Proechimys sp. MUSM 24443
+Proechimys sp. MUSM 16450
+Oecomys sp. MUSM 43189
+Oecomys sp. MUSM 16001
+Oecomys sp. MUSM 11013
+Neusticomys peruviensis
+Neacomys sp. MUSM 44962
+Murinae sp. GK59
+Proechimys sp. MUSM 24450
+Proechimys sp. MUSM 24456
+Proechimys sp. MUSM 24457
+Proechimys sp. MUSM 24455
+Proechimys sp. MUSM 24454
+Proechimys sp. MUSM 24453
+Proechimys sp. MUSM 24448
+Proechimys sp. MUSM 24460
+Proechimys sp. MUSM 17694
+Oecomys phaeotis
+Nannospalax leucodon syrmiensis
+Apodemus rusiges
+Dipodomys venustus venustus
+Dipodomys simulans simulans
+Dipodomys panamintinus mohavensis
+Dipodomys panamintinus leucogenys
+Dipodomys heermanni tularensis
+Dipodomys heermanni swarthi
+Dipodomys heermanni heermanni
+Dipodomys heermanni goldmani
+Dipodomys heermanni dixoni
+Dipodomys agilis perplexus
+Apodemus draco orestes
+Rhabdomys bechuanae
+Ctenomys dorsalis
+Ctenomys sp. 'xingu'
+Ctenomys sp. 'central'
+Tanyuromys asphrastus
+Tanyuromys thomasleei
+Tanyuromys
+Ctenomys famosus
+Zyzomys palatalis
+Melomys cooperae
+Melomys bannisteri
+Mallomys istapantap
+Deltamys araucaria
+Castoria angustidens
+Castoria
+Ctenomys mendocinus complex sp. FM-2018
+Ctenomys sp. 'chasiquensis'
+Microtus kermanensis
+Microtus ilaeus igromovi
+Oligoryzomys destructor destructor
+Gerbilliscus sp. CK-2018
+Scarturus cf. williamsi KH-2018
+Geocapromys thoracatus
+Musseromys inopinatus
+Musseromys beneficus
+Musseromys anacuao
+Musseromys
+Crateromys schadenbergi
+Crateromys australis
+Carpomys melanurus
+Batomys uragon
+Batomys hamiguitan
+Mastomys shortridgei
+Oecomys tapajinus
+Myodes shanseius
+Alticola stoliczkanus
+Urocricetus aff. alticola VSL-2018
+Urocricetus kamensis
+Urocricetus
+Phodopus sp. 'ex gr sungorus'
+Ototylomys chiapensis
+Tachyoryctes splendens complex sp. 5 JK-2018
+Tachyoryctes splendens complex sp. 4 JK-2018
+Tachyoryctes splendens complex sp. 3 JK-2018
+Tachyoryctes splendens complex sp. 2 JK-2018
+Tachyoryctes splendens complex sp. 1 JK-2018
+Pattonomys punctatus
+Echimys saturnus
+Chimaerodipus auritus
+Chimaerodipus
+Jaculus sp. 'ex gr jaculus'
+Dipus sagitta sowerbyi
+Dipus sagitta halli
+Dipus sagitta bulganensis
+Leiuromys occasius
+Leiuromys
+Toromys albiventris
+Tachyoryctes macrocephalus
+Alexandromys mujanensis
+Alexandromys limnophilus malygini
+Alexandromys limnophilus
+Alexandromys oeconomus kharanurensis
+Alexandromys oeconomus
+Alexandromys
+Mus fernandoni
+Mus mayori pococki
+Mus mayori mayori
+Mus mayori
+Rattus rattus rufescens
+Rattus rattus kelaarti
+Rattus montanus
+Golunda ellioti nuwara
+Golunda ellioti ellioti
+Neacomys sp. INPA 3056
+Neacomys sp. MUSM 15993
+Neacomys sp. MUSM 15994
+Neacomys sp. MUSM 17717
+Neacomys sp. MUSM 45717
+Cynomys gunnisoni gunnisoni
+Oecomys franciscorum
+Gerbilliscus boehmi
+Necromys sp.
+Urocitellus undulatus eversmanni
+Hybomys trivirgatus
+Hybomys rufocanus
+Hybomys planifrons
+Hybomys eisentrauti
+Hybomys badius
+Aethomys cf. silindensis MOZ183
+Grammomys cf. macmillani TA-2018
+Lophuromys stanleyi
+Lophuromys sabuni
+Lophuromys makundii
+Lophuromys machangui
+Lophuromys laticeps
+Lophuromys kilonzoi
+Neacomys sp. MTR 12842
+Neacomys sp. MZUSP 29540
+Sicista armenica
+Sicista lorigera
+Vernaya fulva
+Vernaya
+Sciurotamias forresti
+Acomys sp. USNM Mamm 601497
+Acomys sp. USNM Mamm 601496
+Acomys sp. USNM Mamm 601495
+Acomys sp. USNM Mamm 601477
+Acomys sp. USNM Mamm 601474
+Acomys sp. USNM Mamm 601472
+Acomys sp. USNM Mamm 601471
+Acomys sp. USNM Mamm 601470
+Acomys sp. USNM Mamm 601469
+Acomys sp. USNM Mamm 601468
+Acomys sp. USNM Mamm 601466
+Acomys sp. USNM Mamm 602552
+Acomys sp. USNM Mamm 602557
+Microtus chrotorrhinus carolinensis
+Pectinator spekei
+Pectinator
+Kadarsanomys sodyi
+Kadarsanomys
+Pithecheir
+Margaretamys christinae
+Halmaheramys wallacei
+Chiropodomys major
+Necromys benefactus
+Rhizomys sumatrensis
+Rhipidomys sp. MEPN 12114
+Nephelomys sp. MEPN 12133
+Nephelomys sp. FMNH 219795
+Mindomys sp. QCAZ 8720
+Oligoryzomys destructor spodiurus
+Nephelomys moerex
+Hylaeamys tatei
+Oligoryzomys sp. n. MW-2017
+Ellobius alaicus
+Eothenomys shimianensis
+Eothenomys melanogaster melanogaster
+Eothenomys luojishanensis
+Eothenomys custos rubellus
+Oligoryzomys occidentalis
+Funisciurus sp. DRC1110
+Funisciurus sp. DRC1016
+Funisciurus sp. DRC995
+Funisciurus sp. DRC993
+Funisciurus sp. DRC1109
+Funisciurus sp. DRC1098
+Funisciurus sp. DRC1097
+Funisciurus sp. DRC1096
+Funisciurus sp. DRC844
+Stenocephalemys sp. A AB-2017
+Stenocephalemys sp. 'pseudogriseicauda'
+Stenocephalemys cf. ruppi LAV1668
+Stenocephalemys cf. ruppi LAV1660
+Stenocephalemys cf. ruppi LAV1659
+Stenocephalemys cf. ruppi LAV1646
+Stenocephalemys cf. ruppi LAV1631
+Stenocephalemys cf. ruppi LAV1626
+Myomyscus sp. ETH0898
+Peromyscus mexicanus teapensis
+Oligoryzomys mattogrossae
+Hypnomys morpheus
+Hypnomys
+Proechimys trinitatis
+Proechimys poliopus
+Proechimys pattoni
+Proechimys mincae
+Proechimys kulinae
+Proechimys goeldii hyleae
+Proechimys goeldii
+Proechimys gardneri
+Funisciurus sp. rope_squirrel_19
+Funisciurus sp. rope_squirrel_18
+Funisciurus sp. rope_squirrel_17
+Funisciurus sp. rope_squirrel_16
+Funisciurus sp. rope_squirrel_15
+Funisciurus sp. rope_squirrel_14
+Funisciurus sp. rope_squirrel_13
+Funisciurus sp. rope_squirrel_12
+Funisciurus sp. rope_squirrel_11
+Thomasomys daphne complex sp. Puno
+Sigmodon alleni complex sp. Oaxaca
+Oxymycterus paramensis complex sp. Argentina
+Eothenomys melanogaster complex sp. Taiwan
+Ichthyomys stolzmanni
+Ichthyomys
+Nesoryzomys indefessus
+Apomys littoralis
+Melanomys cf. idoneus SJS-2017
+Peromyscus cf. spicilegus SJS-2017
+Peromyscus cf. hylocetes SJS-2017
+Eothenomys sp. 2 SJS-2017
+Eothenomys sp. 1 SJS-2017
+Calomyscus sp. SJS-2017
+Thallomys sp. SJS-2017
+Monticolomys sp. SJS-2017
+Vandeleuria oleracea
+Thomasomys bombycinus
+Thomasomys onkiro
+Thomasomys macrotis
+Tachyoryctes audax
+Tachyoryctes ankoliae
+Rhipidomys venustus
+Rhipidomys venezuelae
+Rattus facetus
+Oxymycterus hispidus
+Tachyoryctes ruandae
+Beamys major
+Niviventer gladiusmaculus
+Proechimys echinothrix
+Proechimys semispinosus calidior
+Proechimys brevicauda
+Peromyscus pembertoni
+Peromyscus guardia
+Peromyscus avius
+Rhipidomys latimanus
+Rhipidomys albujai
+Antillomys
+Anomalurus pusillus
+Anomalurus derbianus
+Lenothrix
+Sundamys maxi
+Sundamys annandalei
+Callosciurus honkhoaiensis
+Phyllotis stenops
+Phyllotis definitus
+Spermophilus pygmaeus x Spermophilus fulvus x Spermophilus erythrogenys iliensis
+Spermophilus pygmaeus x Spermophilus erythrogenys iliensis
+Spermophilus pygmaeus x Spermophilus erythrogenys
+Spermophilus erythrogenys ungae
+Phodopus campbelli x Phodopus sungorus
+Typhlomys nanus
+Typhlomys daloushanensis
+Waiomys
+Neacomys sp. 1 DVR-2017
+Neacomys sp. MUSM 45053
+Neacomys sp. MUSM 45054
+Neacomys sp. MVZ 155299
+Fukomys livingstoni
+Fukomys hanangensis
+Rattus rattus kandianus
+Bandicota bengalensis insularis
+Bandicota bengalensis gracilis
+Coendou baturitensis
+Peromyscus sp. EG-2017
+Dasyprocta sp. 2 EG-2017
+Dasyprocta sp. 1 EG-2017
+Coendou sp. EG-2017
+Peromyscus leucopus x Peromyscus gossypinus
+Sundasciurus sp. FPF-2017
+Ratufa bicolor melanopepla
+Callosciurus finlaysonii frandseni
+Anomalurus sp. LP-2017
+Dipodoidea
+Anomaluromorpha
+Myomorpha
+Castorimorpha
+Neacomys cf. amoenus 'Northern Peru'
+Neacomys cf. amoenus 'Central Andes-Amazonia'
+Neacomys sp. 'clade 7'
+Neacomys sp. 'clade 6'
+Neacomys sp. 'clade 3'
+Neacomys tenuipes
+Neacomys amoenus carceleni
+Neacomys amoenus
+Neacomys vargasllosai
+Hystrix sp. AG-2017
+Melomys paveli
+Hystrix crassispinis
+Sundamys infraluteus
+Hyorhinomys
+Oecomys cf. rex AK-2017
+Neusticomys oyapocki
+Nectomys rattus
+Soricomys
+Oligoryzomys sp. ERS-2016
+Phyllomys centralis
+Phyllomys sp. 3 ACL-2016
+Phyllomys sp. 2 ACL-2016
+Phyllomys sp. 1 ACL-2016
+Niviventer sp. 5 BZ-2016
+Niviventer sp. 4 BZ-2016
+Niviventer sp. 3 BZ-2016
+Chionomys nivalis mirhanreini
+Niviventer lotipes
+Niviventer eha ninus
+Niviventer confucianus yushuensis
+Niviventer confucianus yajiangensis
+Niviventer sacer
+Niviventer confucianus naoniuensis
+Niviventer confucianus deqinensis
+Niviventer confucianus chihliensis
+Niviventer confucianus mentosus
+Niviventer brahma
+Niviventer andersoni pianmaensis
+Niviventer andersoni ailaoshanensis
+Peromyscus sp. 1 NO-2016
+Peromyscus kilpatricki
+Meriones vinogradovi
+Necromys lilloi
+Neotamias ruficaudus ruficaudus
+Tamias amoenus canicaudus
+Neotamias ruficaudus simulans
+Sciurus meridionalis
+Tympanoctomys kirchnerorum
+Octodon pacificus
+Microtus mystacinus
+Gerbilliscus sp. Babile
+Dendromus nikolausi
+Megadendromus
+Saccostomus campestris campestris
+Gerbilliscus cf. bayeri
+Gerbilliscus sp.
+Mus cf. callewaerti
+Steatomys pratensis
+Thamnomys kempi
+Thamnomys sp.
+Thallomys sp.
+Dendromus lovati
+Dendromus sp.
+Dendromus cf. melanotis
+Arvicanthis blicki
+Aethomys silindensis
+Aethomys nyikae
+Acomys cf. cineraceus
+Pelomys sp.
+Hapalomys suntsovi
+Maxomys surifer finis
+Mus musculus isatissus
+Calassomys apicalis
+Calassomys
+Oecomys sp. JSB-2016a
+Oecomys sydandersoni
+Oecomys cf. mamorae
+Urocitellus undulatus stramineus
+Urocitellus undulatus undulatus
+Urocitellus undulatus jacutensis
+Urocitellus parryii stejnegeri
+Urocitellus parryii parryii
+Urocitellus parryii osgoodi
+Urocitellus parryii leucostictus
+Urocitellus mollis mollis
+Urocitellus mollis artemesiae
+Urocitellus elegans nevadensis
+Urocitellus elegans aureus
+Urocitellus canus vigilis
+Urocitellus canus canus
+Urocitellus canus
+Urocitellus beldingi oregonus
+Urocitellus beldingi beldingi
+Urocricetus kamensis lama
+Urocricetus kamensis kozlovi
+Urocricetus kamensis kamensis
+Dremomys rufigenis ornatus
+Dremomys rufigenis fuscus
+Cynomys gunnisoni zuniensis
+Heliophobius emini
+Orthogeomys cuniculus
+Microtus savii nebrodensis
+Gerbilliscus sp. ADSB-2016a
+Geoxus lafkenche
+Tamiasciurus hudsonicus fremonti
+Neusticomys vossi
+Juliomys ximenezi
+Gerbillus pyramidum pyramidum
+Gerbillus pyramidum gedeedus
+Gerbillus pyramidum elbaensis
+Gerbillus andersoni andersoni
+Coleomys sp. HJR-2016a
+Bunomys andrewsi adspersus
+Komodomys rintjanus
+Komodomys
+Rattus annandalei
+Paraleptomys sp. KCR-2016a
+Paraleptomys wilhelmina
+Paraleptomys
+Gracilimus radix
+Microhydromys richardsoni
+Microhydromys
+Tateomys rhinogradoides
+Tateomys macrocercus
+Tateomys
+Sommeromys macrorhinos
+Sommeromys
+Meriones sp. HK-2016
+Spermophilus odessanus
+mouse-rat synkaryon
+Peromyscus sp. CL-2015b
+Peromyscus sp. CL-2015a
+Niviventer sp. 1 DG-2015
+Chiromyscus sp. 1 DG-2015
+Holochilus sp. 2 GDE-2015
+Hystrix brachyura hodgsoni
+Dasymys sp.
+Apodemus hyrcanicus
+Callosciurus sp. 2 AG-2015
+Callosciurus sp. 1 AG-2015
+Toromys
+Phyllotis haggardi
+Rattus rattus complex lineage II
+Rattus rattus complex lineage I
+Scarturus tetradactyla
+Calomyscus urartensis
+Calomyscus grandis
+Calomyscus elburzensis
+Euryoryzomys sp. ALA-2015
+Nephelomys devius
+Handleyomys rhabdops
+Thomasomys sp. JMB-2015
+Thomasomys princeps
+Thomasomys vulcani
+Thomasomys fumeus
+Thomasomys silvestris
+Thomasomys ucucha
+Thomasomys taczanowskii
+Abrawayaomys chebezi
+Acomys sp. AVDS-2015
+Sundasciurus tahan
+Callosciurus prevostii pluto
+Callosciurus phayrei
+Thryonomys sp.
+Gerbillus sp. MH-2015
+Lariscus obscurus
+Lariscus niobe
+Exilisciurus whiteheadi
+Callosciurus baluensis
+Hylomyscus kerbispeterhansi
+Hylopetes phayrei electilis
+Rattus cf. moluccarius TJG-2015
+Dipus sp. YY-2015
+Allactaga sp. YY-2015
+Myodes sp. YY-2015
+Microtus ilaeus
+Rattus detentus
+Oecomys cf. Roberti RGR-2015
+Oecomys cf. bicolor RGR-2015
+Dremomys everetti
+Prosciurillus weberi
+Prosciurillus leucomus occidentalis
+Prosciurillus leucomus
+Prosciurillus abstrusus
+Hyosciurus ileile
+Callosciurus adamsi
+Heliophobius argenteocinereus kapiti
+Felovia vae
+Felovia
+Allactaga sp. Kazakhstan
+Pygeretmus platyurus
+Stylodipus sungorus
+Sicista kluchorica
+Sicista napaea
+Jaculus deserti
+Orientallactaga balikunica
+Sicista severtzovi cimlanica
+Sicista subtilis subtilis
+Sicista severtzovi
+Mus musculus helgolandicus
+Ratufa indica elphinstoni
+Ratufa indica
+Hyorhinomys stuempkei
+Echiothrix centrosa
+Echiothrix
+Lariscus hosei
+Cerradomys goytaca
+Cerradomys akroai
+Cerradomys vivoi
+Cerradomys langguthi
+Sundasciurus tenuis
+Sundasciurus steerii
+Sundasciurus samarensis
+Sundasciurus rabori
+Sundasciurus moellendorffi
+Sundasciurus juvencus
+Sundasciurus jentinki
+Sundasciurus hoogstraali
+Sundasciurus hippurus
+Sundasciurus fraterculus
+Abrothrix manni
+Abrothrix hirta
+Sciurus vulgaris mantchuricus
+Tamias striatus lysteri
+Wilfredomys oenax
+Scapteromys sp. ULB-2015c
+Kunsia sp. ULB-2015b
+Marmota sp. BOLD:ACO5372
+Antillomys rayi
+Pennatomys nivalis
+Pennatomys
+Megalomys desmarestii
+Megalomys luciae
+Megalomys
+Marmota monax ochracea
+Marmota monax rufescens
+Marmota monax monax
+Marmota sibirica sibirica
+Marmota sibirica caliginosus
+Marmota flaviventris obscura
+Marmota caudata caudata
+Marmota camtschatica camtschatica
+Marmota caligata caligata
+Marmota bobak bobak
+Microtus pennsylvanicus terraenovae
+Podoxymys roraimae
+Podoxymys
+Scapteromys sp. ULB-2015a
+Scapteromys sp. ULB-2015b
+Kunsia sp. ULB-2015a
+Micromys erythrotis
+Apomys iridensis
+Apomys lubangensis
+Apomys sacobianus
+Callosciurus erythraeus thaiwanensis
+Peromyscus cf. salvadorensis SGP-2014
+Peromyscus cf. guatemalensis SGP-2014
+Peromyscus cf. zarhynchus SGP-2014
+Peromyscus cf. nicaraguae SGP-2014
+Peromyscus mexicanus salvadorensis
+Peromyscus mexicanus nicaraguae
+Peromyscus mexicanus tropicalis
+Dendromus cf. insignis TA-2014
+Saccostomus cf. campestris TA-2014
+Mus cf. tenellus TA-2014
+Mus cf. setulosus West
+Mus cf. proconodon TA-2014
+Mus cf. kasaicus TA-2014
+Mus cf. gratus TA-2014
+Mus cf. gerbillus TA-2014
+Mus cf. callewaerti TA-2014
+Mus cf. baoulei West
+Mus neavei
+Mus mahomet
+Saccostomus campestris x mashonae
+Saccostomus mashonae
+Saccostomus umbriventer
+Saccostomus mearnsi
+Mus sp. Nyika
+Mus sp. Koi River
+Mus sp. Kiwit
+Mus sp. Harenna
+Mus sp. Dakawa
+Oecomys aff. roberti RGR-2014
+Neodon sp. 2 WJ-2014
+Neodon sp. 1 WJ-2014
+Chiromyscus thomasi
+Niviventer sp.
+Santamartamys rufodorsalis
+Santamartamys
+Abrocoma boliviensis
+Toromys rhipidurus
+Pattonomys semivillosus
+Pattonomys
+Diplomys labilis
+Diplomys
+Tympanoctomys loschalchalerosorum
+Salinoctomys
+Cuscomys ashaninka
+Cuscomys
+Carterodon sulcidens
+Carterodon
+Mesocapromys melanurus
+Mesocapromys auritus
+Mesocapromys angelcabrerai
+Mesocapromys
+Callistomys pictus
+Callistomys
+Jaculus jaculus hirtipes
+Gerbillus sp. AN-2014
+Gerbillus floweri
+Gerbillus amoenus
+Phaenomys ferrugineus
+Phaenomys
+Anomalurus pelii
+Oecomys sp. CMV-2014
+Simosciurus nebouxii
+Thomasomys paramorum
+Gerbillus cheesmani
+Mysateles prehensilis
+Mysateles
+Geocapromys ingrahami
+Geocapromys brownii
+Geocapromys
+Rhabdomys dilectus dilectus
+Bandicota sp.
+Hapalomys longicaudatus
+Deltamys sp. ALL-2014
+Oxymycterus sp. ALL-2014
+Dasyprocta azarae
+Peromyscus sp. 4 CLG-2014
+Microtus qazvinensis
+Ctenomys erikacuellarae
+Petinomys fuscocapillus
+Ototylomys sp. TAGG-2014
+Berylmys manipulus
+Microtus schidlovskii
+Grammomys sp. 13ZR68
+Typhlomys chapensis
+Dryomys nitedula tichomirowi
+Dryomys nitedula ssp. AEB-2014
+Sicista subtilis trizona
+Sicista subtilis nordmanni
+Sicista strandi
+Handleyomys guerrerensis
+Handleyomys melanotis
+Handleyomys chapmani
+Oecomys sp. RVP-2014
+Niviventer sp. AEB-2014
+Berylmys sp. AEB-2014
+Niviventer sp. LL-2014a
+Leopoldamys sp. L1
+Ratufa macroura
+Waiomys mamasae
+Maxomys cf. hellwaldi KCR-2014
+Paucidentomys vermidax
+Paucidentomys
+Alticola olchonensis
+Hadrosciurus pyrrhinus
+Hadrosciurus igniventris
+Sciurus gilvigularis
+Sciurus flammifer
+Echinosciurus colliaei
+Sciurus alleni
+Hyperacrius fertilis
+Hyperacrius
+Alticola lemminus
+Peromyscus sp. YES-2014
+Neotamias panamintinus panamintinus
+Tamias minimus scrutator
+Muriculus imberbis
+Muriculus
+Perognathus mollipilosus
+Neotoma mexicana distincta
+Neotoma nelsoni
+Neotoma mexicana tenicauda
+Neotoma ferruginea vulcani
+Neotoma ferruginea chamula
+Neotoma ferruginea
+Zapus princeps pacificus
+Neotoma sp. 25308
+Neotoma floridana x micropus
+Zapus trinotatus trinotatus
+Zapus trinotatus pacificus
+Zapus trinotatus orarius
+Zapus trinotatus montanus
+Zapus trinotatus eureka
+Zapus princeps saltator
+Zapus princeps oregonus
+Zapus princeps minor
+Zapus princeps kootenayensis
+Zapus princeps curtatus
+Zapus princeps cinereus
+Zapus princeps chrysogeny
+Zapus hudsonius tenellus
+Zapus hudsonius ladas
+Zapus hudsonius hudsonius
+Zapus hudsonius canadensis
+Zapus hudsonius americanus
+Zapus hudsonius alascensis
+Zapus hudsonius acadicus
+Phyllomys sp. 4 ACL-2013
+Napaeozapus insignis saguenayensis
+Napaeozapus insignis roanensis
+Napaeozapus insignis insignis
+Napaeozapus insignis frutectanus
+Napaeozapus insignis abietorum
+Niviventer sp. 1 LL-2013
+Oecomys sp.
+Heterogeomys dariensis thaeleri
+Heterogeomys cherriei matagalpae
+Spalax istricus
+Spalax uralensis
+Spalax antiquus
+Peromyscus mekisturus
+Callosciurus sp. 2 MG-2013
+Hylomyscus sp. 1 TCD-2013
+Hylomyscus arcimontensis
+Hylomyscus endorobae
+Callosciurus sp. 1 MG-2013
+Dendromus melanotis
+Dipodillus rupicola
+Gerbillus nancillus
+Aethomys hindei
+Trinomys moojeni
+Taeromys celebensis
+Taeromys
+Rattus morotaiensis
+Halmaheramys bokimekot
+Halmaheramys
+Olallamys albicauda
+Olallamys
+Coendou speratus
+Andalgalomys pearsoni dorbignyi
+Meriones persicus
+Scapteromys meridionalis
+Calomyscus sp. 1 JJS-2013
+Steatomys krebsii
+Peromyscus crinitus stephensi
+Oligoryzomys longicaudatus philippii
+Ochrotomys nuttalli aureolus
+Neotoma cinerea acraea
+Microtus montanus nanus
+Microtus californicus mariposae
+Margaretamys elegans
+Margaretamys
+Lophuromys zena
+Deomys ferrugineus christyi
+Dendromus nyasae kivu
+Dendromus nyasae
+Dendromus insignis
+Delanymys brooksi
+Delanymys
+Delanymyinae
+Cannomys badius
+Cannomys
+Akodon lutescens lutescens
+Abrothrix longipilis moerens
+Abrothrix jelskii inambarii
+Abrothrix andina polius
+Phyllotis sp. 3 GDE-2013
+Phyllotis sp. 2 GDE-2013
+Phyllotis sp. 1 GDE-2013
+Phyllotis osilae tucumanus
+Phyllotis osilae nogalaris
+Phyllotis caprinus
+Mus sp. 1 TCB-2013
+Gerbillus sp. 1 TCB-2013
+Thomomys nigricans
+Peromyscus carletoni
+Peromyscus sp. 1 HMH-2013
+Mus musculus gansuensis
+Salpingotus crassicauda
+Niviventer hinpoon
+Rattus sp. R3 AL-2013
+Rattus rattus complex RCVN_357811
+Mus callewaerti
+Arvicanthis sp. 1 GJK-2013
+Arvicanthis cf. niloticus GJK-2013
+Microtus paradoxus
+mouse-rat heterokaryon
+Sciurus deppei
+Sciurus variegatoides thomasi
+Sciurus variegatoides rigidus
+Sciurus granatensis hoffmanni
+Sciurus aureogaster
+Sciurus vulgaris fuscoater
+Wiedomys cerradensis
+Delomys altimontanus
+Phaiomys
+Eliurus sp. 2 JJS-2013
+Cansumys canus
+Cansumys
+Makalata sp. 1 FFN-2013
+Thrichomys aff. laurenteus
+Thrichomys aff. apereoides
+Thrichomys aff. inermis
+Thrichomys fosteri
+Eliurus sp. 1 JJS-2013
+Aplodontia rufa pacifica
+Aplodontia rufa humboldtiana
+Aplodontia rufa phaea
+Aplodontia rufa californica
+Aplodontia rufa olympica
+Thomomys nayarensis
+Maxomys sp. 1 JAE-2013
+Maxomys cf. hellwaldii JAE-2013
+Phloeomys pallidus
+Maxomys tajuddinii
+Maxomys panglima
+Maxomys hylomyoides
+Maxomys dollmani
+Crunomys celebensis
+Bunomys penitus
+Lemmus sp. 1 VKL-2013
+Leopoldamys vociferans
+Leopoldamys herberti
+Leopoldamys siporanus
+Leopoldamys ciliatus
+Eligmodontia sp. 1 JCM-2013
+Thomomys sheldoni
+Akodon mollis altorum
+Akodon azarae azarae
+Akodon subfuscus subfuscus
+Coendou quichua
+Coendou nycthemera
+Coendou rufescens
+Coendou pruinosus
+Coendou ichillus
+Tonkinomys daovantieni
+Tonkinomys
+Leopoldamys revertens
+Rattus sp. 110316-1
+Arvicola scherman
+Saxatilomys paulinae
+Saxatilomys
+Leopoldamys milleti
+Allocricetulus curtatus
+Eolagurus przewalskii
+Acomys sp. BNW-2012
+Mus musculus domesticus x M. m. molossinus
+Rhombomys opimus sargadensis x sodalis
+Rhombomys opimus sodalis
+Rhombomys opimus sargadensis
+Petaurista elegans caniceps
+Petaurista elegans sybilla
+Hylomyscus sp. 4 VN-2012
+Hylomyscus sp. 3 VN-2012
+Thallomys sp. VN-2012
+Lamottemys okuensis
+Lamottemys
+Microdipodops megacephalus californicus
+Microdipodops pallidus ruficollaris
+Microdipodops pallidus pallidus
+Dipodomys nitratoides nitratoides
+Dipodomys merriami merriami
+Dipodomys agilis agilis
+Dipodomys californicus californicus
+Dipodomys ordii columbianus
+Dipodomys deserti deserti
+Dipodomys microps microps
+Dipodomys panamintinus panamintinus
+Phyllotini sp. GDE-2012
+Abrawayaomys ruschii
+Abrawayaomys
+Oligoryzomys brendae
+Punomys kofordi
+Punomys
+Galenomys
+Chinchillula sahamae
+Chinchillula
+Ctenomys minutus bicolor
+Hylomyscus anselli
+Ictidomys parvidens x Ictidomys tridecemlineatus
+Sicista cf. caucasica
+Sicista cf. subtilis
+Sicista subtilis
+Sicista caucasica
+Paradipus ctenodactylus
+Paradipus
+Proechimys semispinosus
+Oligoryzomys sp. RT-2012
+Rodentia sp. IN-2012 (X)
+Rodentia sp. IN-2012 (VI)
+Rodentia sp. IN-2012 (III-2)
+Rodentia sp. IN-2012 (III-1)
+Steatomys sp. IN-2012
+Mastomys sp. IN-2012
+Lemniscomys sp. IN-2012
+Gerbillinae sp. IN-2012
+Microtus duodecimcostatus x lusitanicus
+Funisciurus anerythrus
+Heliosciurus gambianus
+Oryzomys palustris argentatus
+Rattus sakeratensis
+Graphiurus kelleni
+Soricomys musseri
+Soricomys montanus
+Soricomys leonardocoi
+Soricomys kalinga
+unclassified Murinae
+Rhynchomys tapulao
+Rhynchomys soricoides
+Rhynchomys banahao
+Chrotomys mindorensis
+Archboldomys maximus
+Hylomyscus denniae vulcanorum
+Ctenomys sp. DAB-2012
+Malpaisomys insularis
+Malpaisomys
+Allactaga firouzi
+Alticola tuvinicus
+Nyctomys sumichrasti sumichrasti
+Nyctomys sumichrasti florencei
+Nyctomys sumichrasti salvini
+Nyctomys sumichrasti colimensis
+Gerbillus poecilops
+Rhizomys sp. TCZ-2012
+Meriones tristrami bogdanovi
+Meriones tristrami bodenheimeri
+Meriones tristrami blackleri
+Meriones tristrami intraponticus
+Meriones tristrami lycaon
+Meriones tristrami kilisensis
+Callosciurus erythraeus griseimanus
+Ctenomys sp. MJGF-2012
+Ctenomys sp. PAR-2012b
+Ctenomys ibicuiensis
+Sicista concolor
+Nyctomys sumichrasti decolorus
+Rattus tanezumi sladeni
+Plagiodontia
+Plagiodontia aedium
+Lophuromys aquilus
+Sciurus oculatus
+Myodes glareolus x rutilus
+Praomys derooi
+Hylomyscus grandis
+Microtus sp. BOLD:AAX4252
+Sigmodontinae sp. ABRMM535-11
+unclassified Sigmodontinae
+unclassified Hylomyscus
+Praomys sp. B VN-2012
+Praomys sp. A VN-2012
+Hylomyscus sp. 7 VN-2012
+Hylomyscus sp. 6 VN-2012
+Hylomyscus sp. 2 VN-2012
+Hylomyscus sp. 10 VN-2012
+Hylomyscus sp. 1 VN-2012
+Cricetomys sp. 3 AO-2012
+Cricetomys sp. 2 AO-2012
+Cricetomys sp. 1 AO-2012
+Cricetomys ansorgei
+Nephelomys levipes
+Sigmodontomys aphrastus
+Hapalomys delacouri
+Hapalomys
+Praomys sp. DB-2012
+Peromyscus sp. BOLD:AAA3869
+Dipodidae sp. ETBM022-11
+unclassified Dipodidae
+Praomys sp. JK-2012
+Praomys coetzeei
+Urocitellus
+Xerospermophilus
+Poliocitellus
+Ictidomys
+Callospermophilus
+Notocitellus
+Ctenomys sp. Chasico population
+Clyomys bishopi
+Oligoryzomys rupestris
+Oligoryzomys utiaritensis
+Gerbillus hesperinus
+Lophuromys ansorgei
+Lophuromys sp. ADM-2011
+Gerbilliscus sp. ADM-2011
+Lophuromys angolensis
+Lophuromys rahmi
+Lophuromys nudicaudus
+Praomys sp. ADM-2011
+Praomys obscurus
+Praomys morio
+Rattus rattus complex lineage IV
+Rattus rattus complex lineage III
+Proechimys sp. BOLD:AAA3831
+Proechimys sp. BOLD:AAA1748
+Oryzomys sp. BOLD:AAA2984
+Nectomys sp. BOLD:AAM5477
+Nectomys sp. BOLD:AAC2628
+Microtus hartingi
+Gerbillus sp. LG-2011
+Gerbillus occiduus
+Gerbillus hoogstrali
+Heliosciurus rufobrachium
+Deltamys sp. Esmeralda/GDE-2011
+Otomys sp. SMa-2011
+Otomys simiensis
+Otomys typus helleri
+Otomys typus fortior
+Otomys orestes zinki
+Otomys tropicalis faradjius
+Otomys tropicalis elgonis
+Otomys orestes
+Otomys jacksoni
+Otomys dartmouthi
+Otomys burtoni
+Otomys barbouri
+Gerbillinae sp. 10ZRD#37
+Steatomys sp. 10ZRD#39
+Mastomys sp. 10ZRD#38
+unclassified Gerbillinae
+Mastomys sp. 10ZRD#34
+Rodentia sp. 09ZRD#49
+Graphiurus sp. 09ZRD#30
+Rodentia sp. 09ZR5#43
+Mastomys sp. 08ZR8#2
+Mastomys sp. 07ZR7#28
+Petromyscus sp. RWM-2011
+Petromyscus sp. WM-2011
+Anomalurus beecrofti
+Stylodipus andrewsi
+Muridae sp. LMB-2011
+Melomys sp. LMB-2011
+Pogonomys sp. LMB-2011
+Rattus sp. LMB-2011
+Solomys ponceleti
+Paramelomys moncktoni
+Melomys leucogaster
+Heliophobius sp. CGF-2011a
+Neotoma lepida insularis
+Marmota menzbieri zachidovi
+Marmota himalayana robusta
+Marmota flaviventris luteola
+Marmota caudata aurea
+Marmota camtschatica doppelmayri
+Marmota baibacina kastschenkoi
+Marmota baibacina centralis
+Neodon linzhiensis
+Acomys muzei
+Acomys ngurui
+Alticola strelzovi desertorum
+Alticola strelzovi strelzovi
+Rodentia sp. BOLD:AAV6426
+Rodentia sp. BOLD:AAJ2224
+Rodentia sp. BOLD:AAE8241
+Rodentia sp. BOLD:AAD7335
+Rodentia sp. BOLD:AAC3783
+Rodentia sp. BOLD:AAC0437
+Rodentia sp. BOLD:AAB6333
+Rodentia sp. BOLD:AAB6080
+Rodentia sp. BOLD:AAB6051
+Rodentia sp. BOLD:AAB4251
+Rodentia sp. BOLD:AAA7577
+Rodentia sp. BOLD:AAA3869
+Rodentia sp. BOLD:AAA3192
+Rodentia sp. BOLD:AAA2045
+Rodentia sp. BOLD:AAA1286
+Rodentia sp. BOLD:AAA1284
+Dremomys pernyi owstoni
+Otospermophilus beecheyi sierrae
+Otospermophilus beecheyi rupinarum
+Otospermophilus beecheyi parvulus
+Otospermophilus beecheyi nudipes
+Otospermophilus beecheyi fisheri
+Otospermophilus beecheyi douglasii
+Otospermophilus beecheyi beecheyi
+Otospermophilus
+Tamiops rodolphii
+Tamiops maritimus
+Arvicola amphibius
+Jaculus blanfordi
+Orientallactaga bullata
+Salpingotus kozlovi
+Salpingotus
+Stylodipus telum
+Stylodipus
+Cardiocranius paradoxus
+Cardiocranius
+Cardiocraniinae
+Pygeretmus pumilio
+Pygeretmus
+Gerbilliscus sp. VVN-2011
+Gerbilliscus phillipsi
+Taterillus petteri
+Srilankamys ohiensis
+Srilankamys
+Nannospalax ceyhanus
+Nannospalax nehringi xanthodon
+Nannospalax leucodon srebarnensis
+Nannospalax montanosyrmiensis
+Nannospalax hungaricus
+Nannospalax galili
+Nannospalax ehrenbergi aegyptiacus
+Spalax graecus mezosegiensis
+Spalax graecus graecus
+Spalax graecus
+Spalax arenarius
+Euneomys sp. A RO-2011
+Proechimys sp. bkl2
+Proechimys sp. bkl1
+Neotomys ebriosus
+Neotomys
+Microtus cf. arvalis BOLD:AAA5168
+Oryzomys sp. BOLD:AAD6027
+Oryzomys sp. BOLD:AAB2003
+Oryzomys sp. BOLD:AAA2991
+Oryzomys sp. BOLD:AAA1671
+Oryzomys sp. ABECB083-08
+Oecomys sp. BOLD:AAD5396
+Oecomys sp. BOLD:AAD5395
+Oecomys cf. rex BOLD:AAD7215
+Neusticomys sp. BOLD:AAI3081
+Neacomys sp. BOLD:AAA7034
+Mindomys
+Mindomys hammondi
+unclassified Maxomys
+Rattus sp. BOLD:AAB2208
+Maxomys sp. BOLD:AAI1690
+Maxomys sp. BOLD:AAA7281
+Maxomys sp. BOLD:AAI1689
+Peromyscus sp. BOLD:AAI2466
+Otonyctomys hatti
+Otonyctomys
+Rattus sp. BOLD:AAH3528
+Rattus sp. BOLD:AAE2315
+Rattus sp. BOLD:AAB6757
+Rattus sp. BOLD:AAA5929
+Rattus sp. BOLD:AAH3526
+Rattus sp. BOLD:AAB2209
+Niviventer cf. confucianus BOLD:AAA2718
+Niviventer cf. confucianus ABRVN168-06
+Niviventer sp. BOLD:AAA8157
+Niviventer sp. BOLD:AAE2315
+Niviventer sp. BOLD:AAA2718
+Niviventer sp. ABBM177-05
+Niviventer sp. BOLD:AAA2719
+Niviventer sp. BOLD:AAB2209
+Niviventer sp. ABBM157-05
+Niviventer sp. ABBM166-05
+Niviventer sp. BOLD:AAD7937
+Niviventer sp. BM248-03
+Niviventer sp. BM250-03
+unclassified Niviventer
+Maxomys moi
+Phenacomys ungava
+Tylomys watsoni
+Sundasciurus lowii
+Sciuridae sp. AVB-2011
+unclassified Sciuridae
+Rhizomyinae sp. AVB-2011
+unclassified Rhizomyinae
+Reithrodontomys sp. 2 AVB-2011
+Reithrodontomys sp. 1 AVB-2011
+Reithrodontomys sp. AVB-2011
+Proechimys sp. AVB-2011
+Peromyscus sp. AVB-2011
+Oryzomys sp. AVB-2011
+Oecomys sp. AVB-2011
+Nectomys sp. AVB-2011
+Neacomys sp. AVB-2011
+Myoprocta sp. AVB-2011
+Callosciurus orestes
+Niviventer sp. LLL-2011
+Malacomys cansdalei
+Dephomys defua
+Dephomys
+Maxomys sp. MTNA-2011
+Oecomys sp. RGR-2011
+Rhabdomys dilectus
+Akodon latebricola
+Tamiasciurus hudsonicus mogollonensis
+Heteromys desmarestianus desmarestianus
+Phyllomys sp. ACL-2011
+Phyllomys sulinus
+Euchoreutes naso
+Euchoreutes
+Euchoreutinae
+Hylomyscus sp. CIV843
+Hylomyscus sp. CIV1227
+Hylomyscus sp. CIV839
+Niviventer huang
+Abrothrix illuteus
+Rodentia sp. BOLD:AAO7242
+Rodentia sp. BOLD:AAO0861
+Rodentia sp. BOLD:AAO0857
+Rodentia sp. BOLD:AAN9308
+Rodentia sp. BOLD:AAN9282
+Rodentia sp. BOLD:AAN4251
+Rodentia sp. BOLD:AAN4160
+Rodentia sp. BOLD:AAN3831
+Rodentia sp. BOLD:AAN3804
+Rodentia sp. BOLD:AAN3747
+Rodentia sp. BOLD:AAN3472
+Rodentia sp. BOLD:AAN3226
+Rodentia sp. BOLD:AAN2997
+Rodentia sp. BOLD:AAN2773
+Rodentia sp. BOLD:AAN2772
+Rodentia sp. BOLD:AAN2513
+Rodentia sp. BOLD:AAM5468
+Rodentia sp. BOLD:AAK8349
+Rodentia sp. BOLD:AAI8143
+Rodentia sp. BOLD:AAE7394
+Rodentia sp. BOLD:AAE1184
+Rodentia sp. BOLD:AAE1183
+Rodentia sp. BOLD:AAD6884
+Rodentia sp. BOLD:AAD3946
+Rodentia sp. BOLD:AAC8705
+Rodentia sp. BOLD:AAC7988
+Rodentia sp. BOLD:AAC4161
+Rodentia sp. BOLD:AAB9152
+Rodentia sp. BOLD:AAB6233
+Rodentia sp. BOLD:AAB6079
+Rodentia sp. BOLD:AAB3551
+Rodentia sp. BOLD:AAB2455
+Rodentia sp. BOLD:AAB2454
+Rodentia sp. BOLD:AAB2207
+Rodentia sp. BOLD:AAA8375
+Rodentia sp. BOLD:AAA8192
+Rodentia sp. BOLD:AAA7810
+Rodentia sp. BOLD:AAA7576
+Rodentia sp. BOLD:AAA7363
+Rodentia sp. BOLD:AAA6466
+Rodentia sp. BOLD:AAA5591
+Rodentia sp. BOLD:AAA5589
+Rodentia sp. BOLD:AAA5588
+Rodentia sp. BOLD:AAA4852
+Rodentia sp. BOLD:AAA3325
+Rodentia sp. BOLD:AAA2987
+Rodentia sp. BOLD:AAA2248
+Rodentia sp. BOLD:AAA2043
+Rodentia sp. BOLD:AAA1671
+Rodentia sp. BOLD:AAA1289
+Rodentia sp. BOLD:AAA1281
+Rodentia sp. BOLD:AAA1280
+Drymoreomys
+Rattus norvegicus albus
+Mus musculus albula
+Rattus lutreolus velutinus
+Rattus lutreolus lutreolus
+Rattus leucopus ringens
+Rattus leucopus dobodurae
+Rattus giluwensis
+Niviventer tenaster
+Eligmodontia sp. AES-2011
+Peromyscus yucatanicus
+unclassified Mus
+Apomys zambalensis
+Apomys sierrae
+Apomys minganensis
+Apomys magnus
+Apomys brownorum
+Apomys banahao
+Apomys aurorae
+Apomys abrae
+Neotomodon sp. JBL-2010
+Ctenomys sp. 'ita'
+Ctenomys sp. 'llathu'
+Ctenomys sp. 19MH
+Zygodontomys sp. Isla Coiba
+Rodentia sp. BOLD:AAN0005
+Rodentia sp. BOLD:AAM5477
+Rodentia sp. BOLD:AAM4143
+Rodentia sp. BOLD:AAM3251
+Rodentia sp. BOLD:AAM1970
+Rodentia sp. BOLD:AAM1742
+Rodentia sp. BOLD:AAM0602
+Rodentia sp. BOLD:AAK7585
+Rodentia sp. BOLD:AAI4357
+Rodentia sp. BOLD:AAH3526
+Rodentia sp. BOLD:AAF6153
+Rodentia sp. BOLD:AAF5824
+Rodentia sp. BOLD:AAF4982
+Rodentia sp. BOLD:AAF4884
+Rodentia sp. BOLD:AAE6361
+Rodentia sp. BOLD:AAD6195
+Rodentia sp. BOLD:AAC2628
+Rodentia sp. BOLD:AAC0192
+Rodentia sp. BOLD:AAB9079
+Rodentia sp. BOLD:AAB6757
+Rodentia sp. BOLD:AAB2210
+Rodentia sp. BOLD:AAB2209
+Rodentia sp. BOLD:AAA9415
+Rodentia sp. BOLD:AAA8842
+Rodentia sp. BOLD:AAA8841
+Rodentia sp. BOLD:AAA8157
+Rodentia sp. BOLD:AAA5166
+Rodentia sp. BOLD:AAA5163
+Rodentia sp. BOLD:AAA3964
+Rodentia sp. BOLD:AAA3831
+Rodentia sp. BOLD:AAA2984
+Rodentia sp. BOLD:AAA1748
+Rodentia sp. BOLD:AAA1516
+Megadontomys nelsoni
+Myodes californicus
+Neotoma albigula sheldoni
+Neotoma albigula venusta
+Neotoma albigula seri
+Neotoma albigula varia
+Neotoma melanura
+Hylomyscus pamfi
+Neotoma angustapalata
+Maxomys sp. ASA-2010
+Maxomys pagensis
+Maxomys rajah
+Maxomys ochraceiventer
+Maxomys musschenbroekii
+Maxomys wattsi
+Rodentia sp. MXTOP592-09
+Rodentia sp. MXTOP112-09
+Microtus brachycercus
+Fukomys zechi
+Peromyscus sp. CAK-2010
+Mus emesi
+Fukomys damarensis
+Heteromys sp. DSR-2010
+Heteromys goldmani
+Heteromys oresterus
+Ctenomys sericeus
+Ctenomys saltarius
+Ctenomys perrensi
+Ctenomys lami
+Ctenomys fodax
+Ctenomys colburni
+Ctenomys sp. PNG 803
+Ctenomys sp. PNG 336
+Ctenomys sp. PNG 191
+Ctenomys sp. PNG 1614
+Ctenomys sp. PNG 160
+Ctenomys sp. PNG 1201
+Ctenomys sp. LTU 207
+unclassified Ctenomys
+Ctenomys minutus
+Eothenomys sp. 2 SL-2010a
+Eothenomys sp. 1 SL-2010a
+Arvicanthis sp. GGD-2010
+Alticola stracheyi
+Eothenomys eva
+Eothenomys inez
+Thrichomys sp. RGR-2010a
+Rhipidomys sp. RGR-2010d
+Rhipidomys tribei
+Rhipidomys itoan
+Rhipidomys ipukensis
+Kerodon acrobata
+Akodon polopi
+Akodon caenosus
+Microtus pennsylvanicus pennsylvanicus
+Euneomys mordax
+Peromyscus grandis
+Oligoryzomys sp. RR-2010a
+Rhipidomys macrurus
+Rhipidomys gardneri
+Rhipidomys emiliae
+Rhipidomys cariri
+Oecomys cleberi
+Pyromys
+Nannomys
+Coelomys
+Mus
+Rodentia sp. FCMUN033-09
+Rattus sp. R3 MP-2010
+Rattus cf. losea MP-2010
+Niviventer sp. 2 MP-2010
+Niviventer sp. 1 MP-2010
+Berylmys sp. Be2b MP-2010
+Maxomys sp. 1 MP-2010
+Leopoldamys neilli
+Dipodillus simoni
+Gerbillus tarabuli
+Gerbillus latastei
+Rodentia sp. BOLD:AAL1321
+Rodentia sp. BOLD:AAK8343
+Rodentia sp. BOLD:AAK6199
+Rodentia sp. BOLD:AAK5957
+Rodentia sp. BOLD:AAK3139
+Rodentia sp. BOLD:AAJ3874
+Rodentia sp. BOLD:AAJ3129
+Rodentia sp. BOLD:AAI9983
+Rodentia sp. BOLD:AAI4890
+Rodentia sp. BOLD:AAH9234
+Rodentia sp. BOLD:AAF8020
+Rodentia sp. BOLD:AAF7215
+Rodentia sp. BOLD:AAF6137
+Rodentia sp. BOLD:AAF2420
+Rodentia sp. BOLD:AAE9422
+Rodentia sp. BOLD:AAE9374
+Rodentia sp. BOLD:AAE8763
+Rodentia sp. BOLD:AAE8215
+Rodentia sp. BOLD:AAE6396
+Rodentia sp. BOLD:AAE6391
+Rodentia sp. BOLD:AAE6188
+Rodentia sp. BOLD:AAE4637
+Rodentia sp. BOLD:AAE4464
+Rodentia sp. BOLD:AAE2617
+Rodentia sp. BOLD:AAE1437
+Rodentia sp. BOLD:AAE1436
+Rodentia sp. BOLD:AAE0655
+Rodentia sp. BOLD:AAE0654
+Rodentia sp. BOLD:AAE0514
+Rodentia sp. BOLD:AAE0402
+Rodentia sp. BOLD:AAD9744
+Rodentia sp. BOLD:AAD8817
+Rodentia sp. BOLD:AAD6064
+Rodentia sp. BOLD:AAD5688
+Rodentia sp. BOLD:AAD4554
+Rodentia sp. BOLD:AAD3947
+Rodentia sp. BOLD:AAD2401
+Rodentia sp. BOLD:AAD1705
+Rodentia sp. BOLD:AAD0505
+Rodentia sp. BOLD:AAD0504
+Rodentia sp. BOLD:AAD0096
+Rodentia sp. BOLD:AAD0095
+Rodentia sp. BOLD:AAC9413
+Rodentia sp. BOLD:AAC9412
+Rodentia sp. BOLD:AAC9411
+Rodentia sp. BOLD:AAC9049
+Rodentia sp. BOLD:AAC8259
+Rodentia sp. BOLD:AAC8258
+Rodentia sp. BOLD:AAC8257
+Rodentia sp. BOLD:AAC8007
+Rodentia sp. BOLD:AAC7959
+Rodentia sp. BOLD:AAC7382
+Rodentia sp. BOLD:AAC5876
+Rodentia sp. BOLD:AAC2731
+Rodentia sp. BOLD:AAC2730
+Rodentia sp. BOLD:AAC2507
+Rodentia sp. BOLD:AAC2060
+Rodentia sp. BOLD:AAC1498
+Rodentia sp. BOLD:AAC1367
+Rodentia sp. BOLD:AAC1366
+Rodentia sp. BOLD:AAC0638
+Rodentia sp. BOLD:AAC0624
+Rodentia sp. BOLD:AAC0405
+Rodentia sp. BOLD:AAC0404
+Rodentia sp. BOLD:AAB7894
+Rodentia sp. BOLD:AAB6915
+Rodentia sp. BOLD:AAB6914
+Rodentia sp. BOLD:AAB6913
+Rodentia sp. BOLD:AAB6500
+Rodentia sp. BOLD:AAB6081
+Rodentia sp. BOLD:AAB5480
+Rodentia sp. BOLD:AAB5065
+Rodentia sp. BOLD:AAB4950
+Rodentia sp. BOLD:AAB4792
+Rodentia sp. BOLD:AAB4791
+Rodentia sp. BOLD:AAB4790
+Rodentia sp. BOLD:AAB4789
+Rodentia sp. BOLD:AAB4119
+Rodentia sp. BOLD:AAB4118
+Rodentia sp. BOLD:AAB4117
+Rodentia sp. BOLD:AAB4116
+Rodentia sp. BOLD:AAB4115
+Rodentia sp. BOLD:AAA9927
+Rodentia sp. BOLD:AAA9926
+Rodentia sp. BOLD:AAA9925
+Rodentia sp. BOLD:AAA9317
+Rodentia sp. BOLD:AAA8775
+Rodentia sp. BOLD:AAA8529
+Rodentia sp. BOLD:AAA8528
+Rodentia sp. BOLD:AAA8527
+Rodentia sp. BOLD:AAA7580
+Rodentia sp. BOLD:AAA7575
+Rodentia sp. BOLD:AAA6738
+Rodentia sp. BOLD:AAA6737
+Rodentia sp. BOLD:AAA6735
+Rodentia sp. BOLD:AAA6286
+Rodentia sp. BOLD:AAA6285
+Rodentia sp. BOLD:AAA6284
+Rodentia sp. BOLD:AAA5393
+Rodentia sp. BOLD:AAA5392
+Rodentia sp. BOLD:AAA5391
+Rodentia sp. BOLD:AAA5390
+Rodentia sp. BOLD:AAA5389
+Rodentia sp. BOLD:AAA5388
+Rodentia sp. BOLD:AAA5168
+Rodentia sp. BOLD:AAA4204
+Rodentia sp. BOLD:AAA4203
+Rodentia sp. BOLD:AAA3962
+Rodentia sp. BOLD:AAA3931
+Rodentia sp. BOLD:AAA3929
+Rodentia sp. BOLD:AAA3928
+Rodentia sp. BOLD:AAA3927
+Rodentia sp. BOLD:AAA3926
+Rodentia sp. BOLD:AAA3925
+Rodentia sp. BOLD:AAA3870
+Rodentia sp. BOLD:AAA3565
+Rodentia sp. BOLD:AAA3428
+Rodentia sp. BOLD:AAA2051
+Rodentia sp. BOLD:AAA2050
+Rodentia sp. BOLD:AAA2044
+Rodentia sp. BOLD:AAA1699
+Rodentia sp. BOLD:AAA1667
+Rodentia sp. BOLD:AAA1615
+Rodentia sp. BOLD:AAA1515
+Rodentia sp. BOLD:AAA1283
+Rodentia sp. BOLD:AAA1235
+Neodon sikimensis
+Neodon irene
+Alexandromys maximowiczii ungurensis
+Alexandromys maximowiczii maximowiczii
+Alexandromys evoronensis
+Praomys sp. GGD-2010
+Heliophobius sp. CGF-2010a
+Fukomys sp. CGF-2010a
+Fukomys whytei occlusus
+Rattus rattus frugivorus
+Rattus rattus alexandrinus
+Neodon fuscus
+Apomys camiguinensis
+Peromyscus melanophrys xenurus
+Melomys lutillus
+Peromyscus maniculatus nubiterrae
+Peromyscus maniculatus gracilis
+Apodemus chejuensis
+Oligoryzomys sp. LLM-2010a
+Calomys sp. LLM-2010a
+Deltamys sp. LLM-2010a
+Chaetodipus arenarius siccus
+Chaetodipus dalquesti
+Akodon viridescens
+Gerbillus andersoni
+Chaetodipus fallax anthonyi
+Chaetodipus fallax inopinus
+Chaetodipus fallax xerotrophicus
+Chaetodipus fallax majusculus
+Chaetodipus fallax pallidus
+Chaetodipus fallax fallax
+Tokudaia tokunoshimensis
+Tokudaia muenninki
+Anomalurus sp. JJS-2010a
+Cuniculus
+Cuniculidae
+Meriones tristrami
+Dipodillus dasyurus
+Dipodillus
+Cavia fulgida
+Cavia patzelti
+Cavia aperea anolaimae
+Cavia aperea guianae
+Cavia aperea pamparum
+Cavia aperea hypoleuca
+Cavia tschudii sodalis
+Cavia tschudii osgoodi
+Dolichotis patagonum centricola
+Microtus californicus scirpensis
+Phyllotis alisosiensis
+Alexandromys mongolicus
+Sigmodontomys sp. JDH-2010a
+Oryzomys palustris sanibeli
+Oryzomys palustris planirostris
+Oryzomys palustris palustris
+Microtus pennsylvanicus chihuahuensis
+Tamiasciurus hudsonicus grahamensis
+Funambulus sublineatus
+Funambulus layardi
+Peromyscus sp. LSG-2009a
+Typhlomys cinereus
+Typhlomys
+Platacanthomyidae
+Galea sp. JLD-2009a
+Galea musteloides leucoblephara
+Eolagurus luteus
+Eolagurus
+Eliurus carletoni
+Eliurus antsingy
+Musseromys gulantang
+Pogonomys sylvestris
+Abrothrix sanborni
+Chiromyscus langbianis
+Peromyscus maniculatus luteus
+Microtus anatolicus
+Microtus irani
+Praomys sp. LEG0176
+Praomys sp. DJ043
+Praomys cf. jacksoni
+Praomys minor
+Praomys lukolelae
+Lemmiscus curtatus
+Lemmiscus
+Microtus breweri
+Graomys chacoensis
+Hylaeamys perenensis
+Euryoryzomys lamia
+Eremoryzomys
+Pelomys isseli
+Tamias speciosus speciosus
+Tamias speciosus sequoiensis
+Tamias speciosus frater
+Tamias speciosus callipeplus
+Callospermophilus lateralis lateralis
+Callospermophilus lateralis chrysodeirus
+Callospermophilus lateralis bernardinus
+Callospermophilus lateralis arizonensis
+Acomys chudeaui
+Tatera sp. IIB-2009a
+Meriones shawi isis
+Meriones penicilliger
+Lemniscomys barbarus barbarus
+Galea monasteriensis
+Alticola semicanus alleni
+Acomys russatus russatus
+Mastomys awashensis
+Callosciurus inornatus
+Coendou mexicanus
+Otomys sloggetti
+Myotomys
+Otomys cf. saundersiae
+Otomys saundersiae karoensis
+Otomys saundersiae
+Melanomys chrysomelas
+Nannospalax ehrenbergi intermedius
+Nannospalax ehrenbergi kirgisorum
+Nannospalax nehringi
+Berylmys berdmorei
+Lemmus amurensis
+Mus sp. YC-2009
+Thaptomys
+Rattus pyctoris
+Peromyscus polionotus peninsularis
+Peromyscus polionotus allophrys
+Peromyscus polionotus trissyllepsis
+Peromyscus polionotus phasma
+Peromyscus polionotus polionotus
+Peromyscus polionotus sumneri
+Reithrodontomys brevirostris
+Otomys denti kempi
+Otomys lacustris
+Otomys denti sungae
+Otomys denti denti
+Otomys typus typus
+Proedromys bedfordi
+Proedromys
+Abrothrix hershkovitzi
+Rattus nativitatis
+Rattus macleari
+Peromyscus californicus insignis
+Aplodontia rufa rufa
+Neacomys dubosti
+Chionomys gud
+Abrothrix lanosus
+Microtus thomasi atticus
+Dipodomys merriami platycephalus
+Dipodomys merriami melanurus
+Dipodomys merriami margaritae
+Dipodomys merriami brunensis
+Dipodomys merriami arenivagus
+Dipodomys merriami annulus
+Zygodontomys sp. 2 PGG-2008a
+Microakodontomys transitorius
+Microakodontomys
+Neusticomys monticolus
+Neusticomys
+Oryzomys palustris coloratus
+Oryzomys couesi goldmani
+Oryzomys couesi azuerensis
+Oryzomys couesi aquaticus
+Oryzomys couesi couesi
+Zygodontomys sp. 1 PGG-2008a
+Zygodontomys microtinus
+Sundasciurus mindanensis
+Mus baoulei
+Akodon simulator group
+Clethrionomys centralis
+Clethrionomys rutilus
+Microtus rossiaemeridionalis
+Anomalurus sp. DH-2008
+Tachyoryctes sp. DH-2008
+Drymoreomys albimaculatus
+Transandinomys talamancae
+Transandinomys bolivaris
+Transandinomys
+Thomasomys erro
+Sooretamys angouya
+Sooretamys
+Nephelomys albigularis
+Nephelomys
+Hylaeamys yunganus
+Hylaeamys laticeps
+Hylaeamys
+Handleyomys saturatior
+Handleyomys rostratus
+Handleyomys alfaroi
+Aegialomys galapagoensis
+Eremoryzomys polius
+Cerradomys
+Alexandromys middendorffii hyperboreus
+Praomys mutoni
+Microtus obscurus
+Gerbillus perpallidus
+Heteromys sp. VA-2008
+Euryoryzomys
+Nephelomys keaysi
+Oxymycterus inca
+Hadrosciurus spadiceus
+Proechimys roberti
+Rattus nitidus
+Neotomodon alstoni alstoni
+Geomys lutescens x majusuclus
+Geomys lutescens x halli
+Brachiones przewalskii
+Brachiones
+Meriones libycus erythrourus
+Meriones tamariscinus
+Meriones chengi
+Melanomys idoneus
+Melanomys columbianus
+Grammomys poensis
+Oreoryzomys balneator
+Oreoryzomys
+Eligmodontia bolsonensis
+Eligmodontia moreni
+Thomomys umbrinus zacatecae
+Thomomys umbrinus volcanius
+Thomomys umbrinus sonoriensis
+Thomomys umbrinus potosinus
+Thomomys umbrinus nelsoni
+Thomomys umbrinus juntae
+Thomomys umbrinus durangi
+Thomomys umbrinus crassidens
+Thomomys umbrinus arriagensis
+Thomomys laticeps silvifugus
+Thomomys laticeps agricolaris
+Thomomys laticeps acrirostratus
+Thomomys laticeps
+Thomomys fulvus toltecus
+Thomomys fulvus phasma
+Thomomys fulvus patulus
+Thomomys fulvus osgoodi
+Thomomys fulvus mutabilis
+Thomomys fulvus morulus
+Thomomys fulvus modicus
+Thomomys fulvus internatus
+Thomomys fulvus divergens
+Thomomys fulvus crassus
+Thomomys fulvus catalinae
+Thomomys fulvus camoae
+Thomomys fulvus boregoensis
+Thomomys fulvus
+Thomomys chihuahue chihuahue
+Thomomys chihuahue
+Thomomys bottae vescus
+Thomomys bottae stansburyi
+Thomomys bottae scapterus
+Thomomys bottae providentialis
+Thomomys bottae oreoecus
+Thomomys bottae lenis
+Thomomys bottae lacrymalis
+Thomomys bottae ingens
+Thomomys bottae curtatus
+Thomomys bottae chrysonotus
+Thomomys bottae brevidens
+Thomomys bottae aureus
+Thomomys bottae argusensis
+Thomomys bottae angularis
+Thomomys bottae amargosae
+Thomomys atrovarius atrovarius
+Thomomys atrovarius
+Thomomys anitae sanctidiegi
+Thomomys anitae russeolus
+Thomomys anitae ruricola
+Thomomys anitae proximarinus
+Thomomys anitae piutensis
+Thomomys anitae perpallidus
+Thomomys anitae pallescens
+Thomomys anitae martirensis
+Thomomys anitae juarensis
+Thomomys anitae jojobae
+Thomomys anitae catavinensis
+Thomomys anitae cabezonae
+Thomomys anitae brazierhowelli
+Thomomys anitae borjasensis
+Thomomys anitae aphrastus
+Thomomys anitae altivallis
+Thomomys anitae abbotti
+Thomomys anitae
+Uranomys ruddi foxi
+Oligoryzomys sp. 2 MIC203
+Oligoryzomys sp. 1 MIC210
+Oligoryzomys sp. B MUSA2625
+Pogonomys loriae dryas
+Vandeleuria sp. KCR-2008
+Vandeleuria
+Melasmothrix naso
+Melasmothrix
+Chiropodomys gliroides
+Chiropodomys
+Chiromyscus chiropus
+Chiromyscus
+Abeomelomys sevia
+Abeomelomys
+Pogonomys loriae
+Paramelomys lorentzii
+Otomys sp. ABTC:65830
+Grammomys surdaster
+Grammomys ibeanus
+Grammomys dolichurus
+Grammomys cometes
+Rattus sp. RIL2R
+Toromys grandis
+Makalata
+Isothrix barbarabrownae
+Isothrix orinoci
+Isothrix negrensis
+Dactylomys peruanus
+Apodemus epimelas
+Sicista betulina
+Stenocephalemys albipes
+Ochromyscus yemeni
+Myomyscus verreauxii
+Ochromyscus brockmani
+Myomyscus
+Millardia kathleenae
+Mastomys kollmannspergeri
+Grammomys sp. PC-2007
+Bunomys chrysocomus
+Uranomys sp. TZ-11125
+Uranomys sp. TZ-11126
+Neofiber alleni
+Neofiber
+Microtus schelkovnikovi
+Necromys sp. OMNH 34515
+Akodon tartareus
+Akodon glaucinus
+Akodon simulator
+Peromyscus maniculatus pallescens
+Calomyscus hotsoni
+Mus musculus x Mus caroli
+Thomomys townsendii relictus
+Thomomys talpoides ocius
+Thomomys talpoides bridgeri
+Thomomys idahoensis pygmaeus
+Thomomys idahoensis
+Thomomys bottae xerophilus
+Thomomys bottae saxatilis
+Thomomys bottae riparius
+Thomomys bottae mewa
+Thomomys bottae laticeps
+Thomomys bottae cactophilus
+Thomomys bottae bottae
+Thomomys bottae awahnee
+Thomomys bottae alpinus
+Thomomys bottae albatus
+Chaetomys
+Chaetomys subspinosus
+Oryzomys texensis
+Oryzomys mexicanus
+Aegialomys xanthaeolus
+Aegialomys
+Holochilus sp. TK53509
+Oryzomys sp. RMT4695
+Oryzomys sp. RMT4689
+Mus musculus musculus x Mus musculus castaneus
+Mus musculus musculus x M. m. domesticus
+Praomys rostratus
+Octodon sp. MVZ 184962
+Octodon sp. MVZ 184961
+Thomasomys kalinowskii
+Clethrionomys gapperi
+Mus triton
+Rattus verecundus
+Rattus steini
+Rattus niobe
+Rattus mordax
+Rattus lutreolus
+Paruromys
+Maxomys hellwaldii
+Lemniscomys griselda
+Bunomys andrewsi
+Bunomys
+Micaelamys namaquensis
+Micaelamys
+Alexandromys maximowiczii
+Mus cypriacus
+Peromyscus polionotus leucocephalus
+Phyllomys aff. dasythrix
+Phyllomys unicolor
+Phyllomys pattoni
+Phyllomys nigrispinus
+Phyllomys lundi
+Phyllomys lamarum
+Phyllomys dasythrix
+Phyllomys blainvillii
+Phyllomys brasiliensis
+Phyllomys mantiqueirensis
+Phyllomys
+Microtus yuldaschi carruthersi
+Neodon
+Tamiops mcclellandii
+Dremomys pyrrhomerus
+Dremomys lokriah
+Dremomys gularis
+Rhipidomys scandens
+Proechimys steerei
+Proechimys hoplomyoides
+Proechimys gularis
+Neacomys paracou
+Neacomys guianae
+Necromys lenguarum
+Necromys obscurus scagliarum
+Myospalax sp. Machang h10
+Myospalax sp. Ganbuta h11
+Myospalax sp. Donggou h26
+Myospalax sp. Donggou h23
+Myospalax sp. Donggou h21
+Myospalax sp. Bohang h8
+Myospalax sp. Ashinu h85
+Myospalax sp. Ashinu h79
+Bandicota savilei
+Bandicota indica
+Rheomys thomasi
+Praomys fumatus
+Myodes glareolus
+Myodes
+Eospalax smithii
+Rattus novaeguineae
+Lagidium cf. cariamangense
+Spermophilus taurensis
+Mesembriomys macrurus
+Zyzomys woodwardi
+Zyzomys pedunculatus
+Zyzomys maini
+Uromys anak
+Solomys salebrosus
+Solomys
+Pseudomys shortridgei
+Pseudomys pilligaensis
+Pseudomys patrius
+Pseudomys oralis
+Pseudomys occidentalis
+Pseudomys novaehollandiae
+Pseudomys laborifex
+Pseudomys johnsoni
+Pseudomys higginsi
+Pseudomys gracilicaudatus
+Pseudomys fumeus
+Pseudomys fieldi
+Pseudomys delicatulus
+Pseudomys calabyi
+Pseudomys bolami
+Pseudomys apodemoides
+Pseudomys albocinereus
+Pseudohydromys ellermani
+Pseudohydromys
+Pogonomys macrourus
+Pogonomys
+Pogonomelomys mayeri
+Pogonomelomys
+Paramelomys rubex
+Paramelomys platyops
+Paramelomys levipes
+Paramelomys
+Parahydromys asper
+Parahydromys
+Notomys mitchellii
+Notomys cervinus
+Notomys aquilo
+Melomys rufescens
+Melomys rubicola
+Melomys capensis
+Mammelomys rattoides
+Mammelomys lanosus
+Mammelomys
+Mallomys rothschildi
+Mallomys
+Macruromys major
+Macruromys
+Lorentzimys nouhuysi
+Lorentzimys
+Leptomys elegans
+Leptomys
+Crossomys moncktoni
+Crossomys
+Coccymys ruemmleri
+Coccymys
+Chiruromys vates
+Chiruromys
+Juliomys ossitenuis
+Lagidium cf. peruanum
+Myospalax sp. smith
+Rattus sp. ABTC 8540
+Rattus sp. ABTC 8536
+Rattus sp. ABTC 8529
+Rattus sp. ABTC 64910
+Rattus sp. ABTC 64909
+Rattus sp. ABTC 64908
+Rattus sp. ABTC 64907
+Rattus sp. ABTC 64906
+Rattus sp. ABTC 49306
+Rattus sp. ABTC 49292
+Rattus sp. ABTC 49035
+Rattus sp. ABTC 48963
+Rattus sp. ABTC 48962
+Rattus sp. ABTC 48005
+Rattus sp. ABTC 48004
+Rattus sp. ABTC 48000
+Rattus sp. ABTC 47999
+Rattus sp. ABTC 47998
+Rattus sp. ABTC 47997
+Rattus sp. ABTC 47996
+Rattus sp. ABTC 47995
+Rattus sp. ABTC 47994
+Rattus sp. ABTC 47992
+Rattus sp. ABTC 47988
+Rattus sp. ABTC 47343
+Rattus sp. ABTC 47307
+Rattus sp. ABTC 47273
+Rattus sp. ABTC 47271
+Rattus sp. ABTC 47232
+Rattus sp. ABTC 47224
+Rattus sp. ABTC 47145
+Rattus sp. ABTC 45966
+Rattus sp. ABTC 45756
+Rattus sp. ABTC 45409
+Rattus sp. ABTC 45161
+Rattus sp. ABTC 44858
+Rattus sp. ABTC 44857
+Rattus sp. ABTC 44797
+Rattus sp. ABTC 44796
+Rattus sp. ABTC 44065
+Rattus sp. ABTC 44058
+Rattus sp. ABTC 44037
+Rattus sp. ABTC 44036
+Rattus sp. ABTC 43906
+Rattus sp. ABTC 43874
+Rattus sp. ABTC 43510
+Rattus sp. ABTC 43216
+Rattus sp. ABTC 42808
+Rattus sp. ABTC 42503
+Rattus sp. ABTC
+unclassified Rattus
+Rattus hoffmanni
+Heteromys nelsoni
+Heteromys australis
+Juliomys sp. MBML 2783
+Juliomys sp. AB 187
+Juliomys sp. AB 258
+Juliomys sp. AB 196
+Juliomys sp. MZUSP 33170
+Juliomys sp. MN 69752
+Juliomys sp. UFMG 3173
+Abrothrix markhami
+Peromyscus arcticus
+Sciurus anomalus
+Niviventer eha
+Niviventer andersoni
+Fukomys sp. PAVD-2007
+Fukomys micklemi
+Fukomys whytei
+Fukomys amatus
+Fukomys mechowii
+Fukomys
+Peromyscus polionotus rhoadsi
+Peromyscus polionotus niveiventris
+Thryonomys gregorianus
+Anomalurus sp. Asp-2007
+Dinaromys bogdanovi
+Dinaromys
+Necromys obscurus obscurus
+Akodon spegazzinii tucumanensis
+Calomys callidus
+Peromyscus hooperi
+Peromyscus stirtoni
+Peromyscus ochraventer
+Thomasomys sp. AMNH 260422
+Thomasomys andersoni
+Thomasomys australis
+Thomasomys ladewi
+Thomasomys cinnameus
+Thomasomys caudivarius
+Gerbilliscus vicinus
+Lophuromys woosnami
+Hybomys lunaris
+Gerbilliscus validus
+Gerbilliscus nigricaudus
+Gerbilliscus robustus
+Gerbilliscus leucogaster
+Gerbilliscus kempi
+Gerbilliscus guineae
+Gerbilliscus brantsii
+Gerbilliscus
+Peromyscus melanocarpus
+Peromyscus guatemalensis
+Peromyscus gymnotis
+Grammomys gazellae
+Thamnomys venustus
+Thamnomys
+Thomomys bottae mohavensis
+Lasiopodomys brandtii
+Megadontomys cryophilus
+Alticola macrotis vinogradovi
+Alticola barakshin
+Alticola argentatus
+Apodemus witherbyi
+Sylvaemus group
+Apodemus ciscaucasicus
+Peromyscus mayensis
+Necromys obscurus
+Necromys
+Akodon sylvanus
+Phaulomys
+Lasiopodomys mandarinus
+Lasiopodomys
+Prometheomys
+Neodon leucurus
+Blanfordimys bucharensis
+Blanfordimys
+Oligoryzomys messorius
+Oligoryzomys moojeni
+Oligoryzomys sp. MN37756
+Habromys schmidlyi
+Habromys delicatulus
+Habromys simulatus
+Habromys ixtlani
+Habromys chinanteco
+Dipodomys simulans peninsularis
+Mus cf. musculoides
+Mus bufo
+Mus sorella
+Mus tenellus
+Hylomyscus walterverheyeni
+Neotoma bryanti
+Anomalurus sp. AAF-2006
+Mus nitidulus
+Mus lepidoides
+Akodon sp. MJS-2006
+Oxymycterus wayku
+Peromyscus sp. LMT-2006
+Hylaeamys acritus
+Heteromys nubicolens
+Calomys sp. CEG40
+Calomys sp. CEG41
+Calomys sp. LBCE5556
+Calomys sp. LBCE5583
+Calomys tocantinsi
+Peromyscus maniculatus blandus
+Peromyscus maniculatus sonoriensis
+Thallomys loringi
+Thallomys nigricauda
+Sciurus vulgaris orientis
+Peromyscus polionotus subgriseus
+Spalax sp. MMS-2006
+Sciurus niger rufiventer
+Sciurus carolinensis carolinensis
+Synaptomys cooperi
+Bathyergus sp. CAM-2005
+Glaucomys sp. CAM-2005
+Chelemys megalonyx
+Aplodontia rufa nigra
+Anomalurus sp. GP-2005
+Niviventer coninga
+Oryzomys sp. TK113513
+Carpomys phaeurus
+Carpomys
+Tarsomys apoensis
+Tarsomys
+Rattus praetor
+Niviventer rapit
+Niviventer excelsior
+Limnomys sibuanus
+Limnomys bryophilus
+Limnomys
+Crunomys suncoides
+Crunomys melanius
+Crunomys
+Crateromys heaneyi
+Crateromys
+Bullimus luzonicus
+Bullimus gamay
+Bullimus bagobus
+Bullimus
+Batomys salomonseni
+Neotoma macrotis
+Heteromys spectabilis
+Heteromys salvini
+Heteromys adspersus
+Heteromys anomalus
+Tatera sp. TTS-2005
+Alticola semicanus
+Jaculus jaculus vocator
+Spermophilus fulvus oxianus
+Laonastes aenigmamus
+Laonastes
+Laonastidae
+Neotominae
+Tamiasciurini
+Sciurini
+Pteromyini
+Funambulini
+Callosciurini
+Protoxerini
+Marmotini
+Xerini
+Xerinae
+Callosciurinae
+Sciurillinae
+Ratufinae
+Tylomyinae
+Muroidea
+Cricetidae
+Nesomyidae
+Calomyscidae
+Spalacidae
+Hylomyscus cf. kaimosae
+Hylomyscus sp. VVN-2005.3
+Hylomyscus sp. VVN-2005.2
+Hylomyscus sp. VVN-2005.1
+Hylomyscus simus
+Hylomyscus baeri
+Hylomyscus aeta
+Zyzomys argurus
+Zyzomys
+Mesembriomys gouldii
+Mesembriomys
+Xeromys myoides
+Xeromys
+Notomys fuscus
+Mastacomys
+Mastacomys fuscus
+Hyomys goliath
+Hyomys
+Grammomys sp. MNHN 1999-293
+Acomys sp. MNHN 2000-054
+Cremnomys cutchicus
+Cremnomys
+Malacomys edwardsi
+Parotomys sp. RMA-2005
+Thallomys paedulcus
+Thallomys
+Phloeomys sp. RMA-2005
+Oenomys hypoxanthus
+Oenomys
+Niviventer culturatus
+Maxomys bartelsii
+Dacnomys millardi
+Dacnomys
+Anisomys imitator
+Anisomys
+Peromyscus maniculatus elusus
+Peromyscus maniculatus santacruzae
+Peromyscus maniculatus anacapae
+Castor fiber subsp. galliae
+Castor fiber fiber
+Castor fiber subsp. albicus
+Rhagomys longilingua
+Aepeomys lugens
+Aepeomys
+Cricetulus sokolovi
+Nothocricetulus migratorius migratorius
+Nothocricetulus migratorius phaeus
+Allocricetulus eversmanni
+Allocricetulus
+Cricetulus barabensis pseudogriseus
+Cricetulus barabensis tuvinicus
+Cricetulus barabensis ferrugineus
+Cricetulus barabensis
+Tscherskia triton
+Tscherskia
+Mesocricetus newtoni
+Mesocricetus raddei avaricus
+Mesocricetus raddei nigriculus
+Mesocricetus raddei
+Ellobius talpinus
+Muridae environmental sample
+environmental samples
+Graomys centralis
+Phyllotis pearsoni
+Calomys aff. expulsus
+Calomys expulsus
+Xerus erythropus
+Xerus princeps
+Phyllotis bonariensis
+Phyllotis xanthopygus xanthopygus
+Phyllotis xanthopygus posticalis
+Phyllotis gerbillus
+Phyllotis osilae phaeus
+Phyllotis osilae osilae
+Deomyinae
+Apodemus iconicus
+Dipodomys simulans
+Chaetodipus rudinoris
+Perognathus alticolus
+Dipodomys stephensi
+Dipodomys compactus
+Dipodomys gravipes
+Dipodomys elephantinus
+Dipodomys venustus
+Dipodomys nitratoides
+Dipodomys insularis
+Microdipodops pallidus
+Heteromys irroratus
+Heteromys pictus
+Heteromys desmarestianus
+Psammomys vexillaris
+Peromyscus sp. TK93599
+Peromyscus sp. TK47890
+Habromys lepturus
+Peromyscus megalops
+Peromyscus perfulvus
+Zapus hudsonius intermedius
+Oligoryzomys destructor
+Steatomys sp. Gautuni
+Eliurus sp. C24
+Reithrodontomys hirsutus
+Reithrodontomys chrysopsis
+Reithrodontomys tenuirostris
+Reithrodontomys spectabilis
+Reithrodontomys creper
+Ctenomys robore
+Neotoma isthmica
+Neotoma picta
+Neotoma albigula durangae
+Neotoma albigula laplatensis
+Neotoma albigula albigula
+Neotoma mexicana scopulorum
+Neotoma mexicana mexicana
+Neotoma floridana osagensis
+Neotoma floridana attwateri
+Neotoma floridana floridana
+Spermophilus major major
+Spermophilus pygmaeus septentrionalis
+Mus sp. 2000082
+Taterillus sp. R13090
+Tatera sp. KIK1704
+Tatera sp. KIK1703
+Tatera sp. KE102
+Akodon sp. MMP 2421
+Akodon philipmyersi
+Peromyscus leucopus aridulus
+Peromyscus leucopus buxtoni
+Peromyscus leucopus easti
+Peromyscus leucopus noveboracensis
+Peromyscus leucopus leucopus
+Perognathus longimembris arizonensis
+Perognathus longimembris gulosus
+Perognathus longimembris bombycinus
+Perognathus longimembris virginis
+Perognathus amplus taylori
+Perognathus amplus cineris
+Perognathus flavus hopiensis
+Perognathus flavescens apache
+Perognathus amplus pergracilis
+Perognathus inornatus inornatus
+Perognathus inornatus neglectus
+Lophuromys chrysopus
+Lophuromys brevicaudus
+Lophuromys melanonyx
+Uromys neobritanicus
+Praomys mattheyi
+Spermophilus suslicus gutattus
+Meriones sp. Garat An Njila
+Desmodillus auricularis
+Desmodillus
+Pachyuromys duprasi
+Pachyuromys
+Desmodilliscus braueri
+Desmodilliscus
+Taterillus gracilis
+Taterillus pygargus
+Taterillus arenarius
+Meriones crassus
+Meriones libycus
+Meriones rex
+Sekeetamys calurus
+Sekeetamys
+Gerbillus pyramidum
+Gerbillus nanus
+Gerbillus gerbillus
+Phyllotis anitae
+Cavia magna
+Castor fiber subsp. tuvinicus
+Castor fiber subsp. pohlei
+Castor fiber subsp. birulai
+Isothrix sinnamariensis
+Akodon iniscatus nucus
+Akodon fumeus
+Akodon budini
+Akodon dayi
+Cratogeomys perotensis
+Chrotomys whiteheadi
+Chrotomys sibuyanensis
+Chrotomys silaceus
+Apodemus sp. Iran 74
+Zapus hudsonius luteus
+Zapus hudsonius campestris
+Zapus hudsonius pallidus
+Zapus princeps idahoensis
+Zapus princeps utahensis
+Zapus princeps princeps
+Zapus hudsonius preblei
+Apodemus sp. Syria 334
+Apodemus sp. Kyrgyzstan 100
+Cratogeomys estor
+Cratogeomys fulvescens
+Dipodomys deserti
+Thomomys bottae incomptus
+Thomomys bottae litoris
+Thomomys bottae alticolus
+Thomomys bottae imitabilis
+Aethomys ineptus
+Neodon clarkei
+Thomomys talpoides rostralis
+Thomomys talpoides macrotis
+Thomomys talpoides retrorsus
+Ctenomys sp. NK21221
+Cratogeomys fumosus imparilis
+Cratogeomys fumosus fumosus
+Cratogeomys fumosus angustirostris
+Cratogeomys planiceps
+Mus haussa
+Mus indutus
+Mus cf. saxicola
+Peromyscus keeni
+Spermophilus pygmaeus pallidus
+Spermophilus suslicus suslicus
+Spermophilus pygmaeus pygmaeus
+Tatera sp. AD255
+Aethomys sp. AD256
+Aethomys sp. AD131
+Tatera sp. AD254
+Spermophilus erythrogenys erythrogenys
+Mus sp. Chypre
+Mus macedonicus macedonicus
+Mus macedonicus spretoides
+Galea sp. CH-2002
+Microtus socialis
+Microtus majori
+Microtus guentheri
+Microtus pyrenaicus
+Microtus felteni
+Microtus dogramacii
+Microtus daghestanicus
+Chionomys roberti
+Chionomys nivalis
+Chionomys
+Neotoma leucodon
+Microtus thomasi
+F-11 rat/mouse fusion cell line
+Sigmodon hirsutus
+Apodemus pallipes
+Apodemus sp. TTS-2004d
+Apodemus sp. TTS-2004c
+Apodemus sp. TTS-2004b
+Acomys sp. TTS-2004
+Meriones meridianus
+Apodemus sp. TTS-2004a
+Fukomys ochraceocinereus
+Fukomys foxi
+Fukomys kafuensis
+Fukomys anselli
+Cryptomys sp. Livingstone
+Cryptomys sp. Senanga
+Cryptomys sp. Sekute
+Fukomys sp. Kasama
+Cryptomys holosericeus
+Cryptomys anomalus
+Eothenomys miletus
+Eothenomys eleusis
+Eothenomys cachinus
+Urocitellus parryii nebulicola
+Urocitellus parryii lyratus
+Urocitellus parryii kodiacensis
+Urocitellus parryii kennicottii
+Urocitellus parryii ablusus
+Geomys streckeri
+Geomys pinetis pinetis
+Geomys pinetis mobilensis
+Geomys personatus subsp. maritimus
+Geomys personatus subsp. davisi
+Geomys jugossicularis jugossicularis
+Geomys jugossicularis
+Geomys bursarius industrius
+Apodemus ilex
+Peromyscus truei truei
+Peromyscus truei montipinoris
+Peromyscus truei comanche
+Peromyscus nasutus nasutus
+Peromyscus gratus zapotecae
+Peromyscus gratus gratus
+Peromyscus difficilis saxicola
+Peromyscus difficilis difficilis
+Peromyscus difficilis amplus
+Petaurista yunanensis
+Petaurista hainana
+Hylopetes spadiceus
+Hylopetes nigripes
+Hylopetes lepidus
+Hylopetes alboniger
+Mus terricolor
+Aethomys kaiseri
+Leporillus conditor
+Leporillus
+Eligmodontia hirtipes
+Akodon albiventer
+Arborimus pomo
+Arborimus albipes
+Arborimus longicaudus
+Arborimus
+Orthogeomys grandis
+Phloeomys cumingi
+Phloeomys
+Niviventer confucianus
+Lophiomys imhausi
+Lophiomys
+Lophiomyinae
+Hylomyscus denniae
+Grammomys macmillani
+Dendromus nyikae
+Saccostomus sp. TZ502
+Saccostomus sp. 404411
+Saccostomus sp. 41386
+Saccostomus sp. 42036
+Saccostomus sp. 41623
+Saccostomus sp. 41414
+Saccostomus sp. 41392
+Saccostomus sp. 13830
+Saccostomus sp. 13823
+Saccostomus sp. 13822
+Saccostomus sp. 50664
+Saccostomus sp. 50709
+Saccostomus sp. 13777
+Saccostomus sp. ZM9
+Saccostomus sp. ZM35
+Saccostomus sp. ZM15
+Saccostomus sp. ZM3
+Saccostomus sp. 50137
+Saccostomus sp. 50064
+unclassified Saccostomus
+Peromyscus schmidlyi
+Peromyscus melanophrys
+Peromyscus gratus gentilis
+Thalpomys lasiotis
+Oryzomys sp. CRB 968
+Calomys sp. CRB 1590
+Wiedomys sp. CRB 1878
+Reithrodontomys bakeri
+Reithrodontomys gracilis
+Reithrodontomys microdon
+Praomys taitae
+Petromyscus monticularis
+Dryomys sp. SJS-2003
+Oligoryzomys magellanicus
+Oligoryzomys longicaudatus pampanus
+Tylomys sp. USNM 464887
+Scapteromys aquaticus
+Euneomys chinchilloides
+Euneomys
+Abrothrix jelskii
+Brucepattersonius igniventris
+Bibimys labiosus
+Bibimys chacoensis
+Bibimys
+Brucepattersonius soricinus
+Brucepattersonius
+Akodon iniscatus
+Thalpomys cerradensis
+Thalpomys
+Necromys temchuki
+Akodon dolores
+Tamias townsendii cooperi
+Tamias striatus fisheri
+Tamias sonomae alleni
+Tamias minimus operarius
+Neotamias cincericollis cinereus
+Tamias amoenus luteiventris
+Tamias amoenus affinis
+Tamias dorsalis utahensis
+Hodomys alleni
+Hodomys
+Rattus rattus diardii
+Petaurista xanthotis
+Apomys sp. B
+Apomys sp. AC
+Apomys sp. F
+Apomys musculus
+Apomys microdon
+Apomys insignis
+Apomys hylocoetes
+Apomys gracilirostris
+Apomys datae
+Apomys
+Rhynchomys isarogensis
+Rhynchomys
+Chrotomys gonzalesi
+Chrotomys
+Archboldomys luzonensis
+Archboldomys
+Lagidium viscacia perlutea
+Lagidium viscacia boxi
+Lagidium peruanum
+Xerus inauris
+Sundasciurus philippinensis
+Ratufa sp. LSUMZ M3476
+Paraxerus vexillarius
+Paraxerus ochraceus
+Heliosciurus undulatus
+Funisciurus carruthersi
+Dremomys pernyi
+Dendromus mesomelas
+Batomys granti
+Batomys
+Orientallactaga sibirica
+Allactaga major
+Tamias amoenus x Tamias ruficaudus
+Peromyscus maniculatus bairdii
+Akodon spegazzinii
+Akodon affinis
+Deltamys kempi langutthi
+Akodon paranaensis
+Akodon reigi
+Juliomys rimofrons
+Deltamys kempi
+Deltamys
+Peromyscus zarhynchus
+Neotomodon alstoni
+Neotomodon
+Megadontomys thomasi
+Megadontomys
+Mus gratus
+Sciurus ignitus argentinius
+Sciurillus pusillus kuhlii
+Pipanacoctomys aureus
+Pipanacoctomys
+Sciurus variegatoides
+Sciurus ignitus
+Sciurus granatensis
+Microsciurus alfari
+Xerus rutilus
+Xerus
+Atlantoxerus getulus
+Atlantoxerus
+Sciurotamias davidianus
+Sciurotamias
+Syntheosciurus brochus
+Syntheosciurus
+Rheithrosciurus macrotis
+Rheithrosciurus
+Ratufa bicolor
+Ratufa affinis
+Ratufa
+Trogopterus xanthipes
+Trogopterus
+Pteromyscus pulverulentus
+Pteromyscus
+Petaurillus kinlochii
+Petaurillus
+Iomys horsfieldi
+Iomys
+Eoglaucomys fimbriatus
+Eoglaucomys
+Eupetaurus cinereus
+Eupetaurus
+Aeromys tephromelas
+Aeromys
+Aeretes melanopterus
+Aeretes
+Protoxerus stangeri
+Protoxerus
+Myosciurus pumilio
+Myosciurus
+Heliosciurus ruwenzorii
+Heliosciurus
+Epixerus wilsoni
+Epixerus
+Paraxerus alexandri
+Funisciurus pyrropus
+Funisciurus
+Funambulus palmarum
+Tamiops swinhoei
+Tamiops
+Sundasciurus brookei
+Sundasciurus
+Rubrisciurus rubriventer
+Rubrisciurus
+Rhinosciurus laticaudatus
+Rhinosciurus
+Prosciurillus murinus
+Prosciurillus
+Nannosciurus melanotis
+Nannosciurus
+Lariscus insignis
+Lariscus
+Hyosciurus heinrichi
+Hyosciurus
+Glyphotes simus
+Glyphotes
+Exilisciurus exilis
+Exilisciurus concinnus
+Exilisciurus
+Dremomys rufigenis
+Dremomys
+Lagidium wolffsohni
+Pseudomys desertor
+Pseudomys hermannsburgensis
+Pseudomys nanus
+Glaucomys sp. 4660
+Tamiasciurus sp. 5813
+Graphiurus microtis
+Graphiurus platyops
+Graphiurus ocularis
+Dryomys laniger
+Eliomys melanurus
+Myomimus roachi
+Myomimus
+Graphiurus lorraineus
+Rhagomys rufescens
+Rhagomys
+Pseudomys chapmani
+Oligoryzomys fornesi
+Oecomys catherinae
+Amphinectomys savamis
+Amphinectomys
+Zygodontomys cherriei
+Tylomys nudicaudus
+Sigmodontomys alfari
+Sigmodontomys
+Rheomys raptor
+Rheomys
+Pseudoryzomys simplex
+Pseudoryzomys
+Oligoryzomys stramineus
+Oligoryzomys fulvescens
+Oligoryzomys flavescens
+Oecomys mamorae
+Oecomys concolor
+Nesoryzomys narboroughi
+Nesoryzomys swarthi
+Neacomys minutus
+Melanomys caliginosus
+Melanomys
+Lundomys molitor
+Lundomys
+Juliomys pictipes
+Juliomys
+Holochilus chacarius
+Handleyomys fuscatus
+Handleyomys intectus
+Handleyomys
+Calomyscus baluchi
+Apodemus wardi
+Apodemus latronum
+Perognathus longimembris pacificus
+Perognathus longimembris longimembris
+Perognathus longimembris internationalis
+Perognathus longimembris brevinasus
+Perognathus longimembris bangsi
+Baiomys musculus
+Myospalax aspalax
+Scolomys ucayalensis
+Scolomys melanops
+Aconaemys sagei
+Aconaemys porteri
+Mus shortridgei
+Zelotomys hildegardeae
+Zelotomys
+Heimyscus fumosus
+Heimyscus
+Praomys tullbergi
+Praomys petteri
+Praomys misonnei
+Praomys jacksoni
+Praomys hartwigi
+Praomys degraaffi
+Mastomys verheyeni
+Hylomyscus parvus
+Petaurista leucogenys nikkonis
+Petaurista leucogenys leucogenys
+Petaurista alborufus castaneus
+Petaurista albiventer
+Arvicanthis ansorgei
+Microcavia niata
+Oecomys rex
+Tamias speciosus
+Oecomys paricola
+Oecomys auyantepui
+Oecomys rutilus
+Pappogeomys alcorni
+Pappogeomys
+Oxymycterus dasytrichus
+Oxymycterus quaestor
+Oxymycterus amazonicus
+Dasyprocta fuliginosa
+Hystrix indica
+Atherurus africanus
+Nannospalax golani
+Thrichomys sp.
+Coendou vestitus
+Coendou spinosus
+Coendou insidiosus
+Thrichomys sp. CRB 1815
+Thrichomys pachyurus
+Thrichomys inermis
+Thrichomys apereoides apereoides
+Thrichomys laurenteus
+Otomys unisulcatus
+Otomys typus
+Otomys tropicalis
+Otomys occidentalis
+Otomys maximus
+Otomys laminatus
+Otomys denti
+Otomys anchietae
+Phyllotis rupestris
+Phyllotis xanthopygus chilensis
+Coendou villosus
+Coendou prehensilis
+Pseudomys australis
+Pseudomys
+Mus musculus x Mus spretus
+Gerbillurus tytonis
+Gerbillurus setzeri
+Gerbillurus paeba
+Rhombomys opimus
+Rhombomys
+Taterillus sp. PC2002
+Tatera indica
+Mus fragilicauda
+Oecomys sp. LBCE_1941
+Notomys alexis
+Notomys
+Microtus savii
+Microtus lusitanicus
+Microtus duodecimcostatus
+Oecomys sp. LBCE_1924
+Oryzomys sp.
+Octodon bridgesii
+Aconaemys fuscus
+Aconaemys
+Dolichotis salinicola
+Myoprocta acouchy
+Microcavia australis
+Microcavia
+Kerodon rupestris
+Kerodon
+Galea spixii
+Mus musculus homourus
+Mesomys occultus
+Makalata macrura
+Lonchothrix emiliae
+Lonchothrix
+Kannabateomys amblyonyx
+Kannabateomys
+Hoplomys gymnurus
+Hoplomys
+Clyomys laticeps
+Clyomys
+Trinomys setosus elegans
+Lagurus lagurus
+Lagurus
+Octodontomys gliroides
+Octodontomys
+Ctenomys magellanicus
+Ctenomys fulvus
+Ctenomys australis
+Microtus umbrosus
+Microtus quasiater
+Microtus oaxacensis
+Microtus guatemalensis
+Calomys hummelincki
+Octodon sp.
+Proechimys sp.
+Proechimys quadruplicatus
+Glaucomys sabrinus griseifrons
+Auliscomys boliviensis
+Xenomys nelsoni
+Xenomys
+Tylomys sp.
+Tylomys
+Neotoma stephensi
+Neotoma devia
+Cratogeomys zinseri
+Volemys musseri
+Volemys millicens
+Volemys
+Spalax carmeli
+Hylomyscus kaimosae
+Taterillus emini
+Peromyscus nudipes
+Calomys tener
+Thomasomys baeops
+Zapus princeps
+Thomomys umbrinus tolucae
+Thomomys umbrinus pullus
+Thomomys umbrinus intermedius
+Thomomys umbrinus goldmani
+Thomomys umbrinus chihuahuae
+Thomomys townsendii townsendii
+Thomomys townsendii bachmani
+Thomomys talpoides nebulosus
+Thomomys talpoides levis
+Thomomys talpoides immunis
+Thomomys talpoides fossor
+Thomomys mazama mazama
+Thomomys mazama couchi
+Thomomys bottae leucodon
+Thomomys bottae connectens
+Calomys sp.
+Calomys venustus
+Calomys fecundus
+Hydromys neobrittanicus
+Baiyankamys habbema
+Hydromys chrysogaster
+Hydromys
+Zapus hudsonius
+Oryzomys couesi
+Apodemus hermonensis
+Zygodontomys sp. CRB2036
+Zygodontomys sp. CRB2035
+Zygodontomys brevicauda
+Zygodontomys
+Abrothrix olivaceus pencanus
+Abrothrix sp. FMNH129874
+Abrothrix xanthorhinus xanthorhinus
+Abrothrix xanthorhinus
+Abrothrix
+Microtus transcaspicus
+Peromyscus collatus
+Peromyscus interparietalis
+Peromyscus dickeyi
+Peromyscus caniceps
+Peromyscus furvus
+Dipodomys heermanni morroensis
+Dipodomys heermanni arenae
+Thomomys talpoides yakimensis
+Thomomys talpoides fuscus
+Thomomys talpoides douglasii
+Thomomys mazama pugetensis
+Thomomys mazama niger
+Thomomys mazama nasicus
+Thomomys mazama melanops
+Eospalax rufescens
+Eospalax rothschildi
+Eospalax fontanierii
+Eospalax fontanierii cansus
+Eospalax fontanierii baileyi
+Eospalax
+Rhizomys sinensis
+Myospalax psilurus
+Myospalax myospalax
+Chaetodipus spinatus
+Chaetodipus nelsoni
+Chaetodipus goldmani
+Chaetodipus fallax
+Chaetodipus eremicus
+Chaetodipus californicus
+Chaetodipus baileyi
+Chaetodipus artus
+Peromyscus eva
+Peromyscus fraterculus
+Peromyscus merriami
+Peromyscus crinitus
+Tamiasciurus mearnsi
+Tamiasciurus douglasii
+Cuniculus taczanowskii
+Cavia tschudii
+Hystrix brachyura
+Ototylomys phyllotis
+Ototylomys
+Spalax microphthalmus
+Chaetodipus arenarius
+Ammospermophilus insularis
+Akodon baliolus
+Akodon varius
+Akodon molinae
+Microtus liechtensteini
+Microtus tatricus
+Microtus subterraneus
+Microtus multiplex
+Microtus bavaricus
+Fukomys cf. bocagei
+Oligoryzomys longicaudatus
+Mus cervicolor popaeus
+Mus cervicolor cervicolor
+Petaurista elegans
+Octomys mimax
+Octomys
+Oxymycterus josei
+Oxymycterus nasutus
+Apodemus uralensis
+Apodemus ponticus
+Apodemus cf. fulvipectus
+Apodemus fulvipectus
+Sigmodon fulviventer fulviventer
+Sigmodon fulviventer dalquesti
+Sigmodon arizonae major
+Sigmodon toltecus
+Sigmodon peruanus
+Sigmodon leucotis
+Sigmodon alstoni
+Nannospalax judaei
+Microtus mexicanus hualpaiensis
+Cerradomys marinhus
+Cerradomys maracajuensis
+Cerradomys scotti
+Oryzomys sp. Joao Pessoa
+Oryzomys sp. Itabuna
+Delomys collinus
+Anomalurus sp. T-1787
+Sigmodon hispidus texianus
+Sigmodon hispidus spadicipygus
+Sigmodon hispidus griseus
+Sigmodon hispidus eremicus
+Sigmodon hispidus chiriquensis
+Sigmodon hispidus berlandieri
+Sigmodon arizonae
+Sigmodon alleni
+Reithrodontomys zacatecae
+Reithrodontomys raviventris
+Reithrodontomys montanus
+Reithrodontomys humulis
+mouse/rat hybrid cell lines
+mouse/rat NG108-15
+Apodemus peninsulae sowerbyi
+Apodemus peninsulae preator
+Apodemus agrarius pallidior
+Apodemus agrarius ningpoensis
+Apodemus agrarius manchuricus
+Apodemus agrarius coreae
+Apodemus draco
+Apodemus chevrieri
+Juscelinomys huanchacae
+Proechimys cuvieri
+Proechimys guyannensis
+Callosciurus nigrovittatus
+Callosciurus finlaysonii
+Petaurista petaurista melanotus
+Abrocoma bennettii bennettii
+Lagidium viscacia viscacia
+Lagidium viscacia cuvieri
+Abrocoma cinerea
+Euryoryzomys russatus
+Euryoryzomys emmonsae
+Tamias umbrinus
+Tamias townsendii
+Tamias sonomae
+Tamias senex
+Tamias rufus
+Tamias quadrimaculatus
+Tamias palmeri
+Tamias obscurus
+Tamias merriami
+Tachyoryctes sp.
+Saccostomus campestris
+Arvicanthis sp. Koumbala
+Grammomys sp. Berega
+Arvicanthis sp. Kyambura
+Grammomys sp.
+Grammomys
+Desmomys harringtoni
+Desmomys
+Golunda ellioti
+Golunda
+Millardia meltada
+Millardia
+Mylomys dybowskii
+Mylomys
+Parotomys littledalei
+Parotomys brantsii
+Parotomys
+Pelomys fallax
+Pelomys campanae
+Pelomys
+Rhabdomys pumilio
+Rhabdomys
+Otomys irroratus
+Mastomys huberti
+Lemniscomys zebra
+Lemniscomys striatus
+Lemniscomys rosalia
+Lemniscomys macculus
+Dasymys rufulus
+Arvicanthis neumanni
+Aethomys chrysophilus
+Tapecomys primus
+Tapecomys
+Salinomys delicatus
+Salinomys
+Andalgalomys roigi
+Taterillus
+Colomys goslingi
+Colomys
+Graomys griseoflavus
+Graomys domorum
+Graomys
+Eligmodontia puerulus
+Andinomys edax
+Andinomys
+Andalgalomys pearsoni
+Andalgalomys olrogi
+Andalgalomys
+Mus musculus brevirostris
+Thomomys bulbivorus
+Ctenomys tucumanus
+Ctenomys tuconax
+Ctenomys scagliai
+Ctenomys pundti
+Ctenomys occultus
+Ctenomys latro
+Ctenomys juris
+Ctenomys bonettoi
+Ctenomys azarae
+Malacomys longipes
+Malacomys
+Peromyscus beatae sacarensis
+Microtus townsendii
+Microtus richardsoni
+Microtus pinetorum
+Microtus oregoni
+Microtus miurus
+Otomys angoniensis
+Otomys
+Phodopus roborovskii
+Calomyscus mystax
+Sicista kazbegica
+Trinomys sp. EDH33
+Trinomys sp. ML110
+Trinomys setosus setosus
+Trinomys setosus denigratus
+Trinomys yonenagae
+Trinomys albispinus
+Trinomys gratiosus gratiosus
+Trinomys gratiosus bonafidei
+Trinomys gratiosus
+Dinomys branickii
+Dinomys
+Dinomyidae
+Abrocoma bennettii
+Abrocoma
+Abrocomidae
+Cuniculus paca
+Proechimys oris
+Ctenomys maulinus
+Geomys texensis texensis
+Geomys texensis subsp. llanensis
+Geomys texensis subsp. bakeri
+Geomys personatus personatus
+Geomys tropicalis
+Geomys arenarius
+Monticolomys
+Voalavo gymnocaudus
+Voalavo
+Microdipodops megacephalus
+Microdipodops
+Dipodomys phillipsii
+Dipodomys nelsoni
+Dipodomys elator
+Monticolomys koopmani
+Eliurus webbi
+Eliurus tanala
+Eliurus myoxinus
+Eliurus minor
+Eliurus majori
+Eliurus grandidieri
+Brachyuromys ramirohitra
+Petromyscus collinus
+Petromyscus
+Petromyscinae
+Gymnuromys roberti
+Gymnuromys
+Eliurus ellermani
+Eliurus
+Brachyuromys betsileoensis
+Brachyuromys
+Brachytarsomys albicauda
+Brachytarsomys
+Steatomys parvus
+Nesomys audeberti
+Macrotarsomys bastardi
+Cricetomys emini
+Calomyscus bailwardi
+Myospalax sp.
+Myospalax
+Myospalacinae
+Saccostomus sp.
+Saccostomus
+Dendromus mystacalis
+Dendromus
+Deomys ferrugineus
+Deomys
+Diplothrix legata
+Diplothrix
+Akodon serrensis
+Akodon mystax
+Akodon montensis
+Akodon lindberghi
+Akodon aff. cursor
+Juscelinomys
+Apodemus semotus
+Apodemus gurkha
+Apodemus peninsulae
+Apodemus speciosus
+Dipodomys spectabilis
+Neotoma fuscipes
+Neotoma micropus
+Neotoma mexicana
+Neotoma goldmani
+Neotoma cinerea
+Dipodomys ingens
+Heteromys gaumeri
+Heteromys
+Heteromyinae
+Eozapus setchuanus
+Eozapus
+Napaeozapus insignis
+Napaeozapus
+Zenkerella insignis
+Zenkerella
+Idiurus macrotis
+Idiurus
+Anomalurus sp.
+Anomalurus
+Anomaluridae
+Belomys pearsonii
+Belomys
+Petinomys setosus
+Petinomys
+Hylopetes phayrei
+Hylopetes
+Alexandromys middendorffii
+Alexandromys fortis
+Microtus canicaudus
+Microtus californicus
+Microtus abbreviatus
+Nectomys apicalis
+Necromys urichi
+Akodon lutescens
+Otospermophilus variegatus utah
+Ictidomys tridecemlineatus arenicola
+Xerospermophilus spilosoma marginatus
+Callospermophilus lateralis trepidus
+Urocitellus columbianus ruficaudus
+Urocitellus columbianus columbianus
+Urocitellus endemicus
+Urocitellus brunneus brunneus
+Mus poschiavinus
+Apodemus mystacinus
+Apodemus alpicola
+Geomys pinetis
+Geomys bursarius ozarkensis
+Geomys bursarius missouriensis
+Geomys bursarius majusculus
+Geomys bursarius lutescens
+Geomys bursarius illinoensis
+Geomys bursarius bursarius
+Spermophilopsis leptodactylus
+Spermophilopsis
+Spermophilus xanthoprymnus
+Urocitellus washingtoni
+Urocitellus undulatus
+Urocitellus townsendii vigilis
+Urocitellus townsendii townsendii
+Urocitellus townsendii nancyae
+Urocitellus mollis
+Urocitellus mollis idahoensis
+Urocitellus townsendii
+Xerospermophilus tereticaudus
+Spermophilus suslicus
+Callospermophilus saturatus
+Spermophilus relictus
+Spermophilus pygmaeus
+Xerospermophilus perotensis
+Urocitellus parryii plesius
+Spermophilus pallidicauda
+Spermophilus sp.
+Spermophilus musicus
+Xerospermophilus mohavensis
+Ictidomys parvidens
+Ictidomys mexicanus mexicanus
+Ictidomys mexicanus
+Spermophilus major
+Callospermophilus madrensis
+Spermophilus fulvus
+Spermophilus erythrogenys
+Urocitellus elegans elegans
+Urocitellus elegans
+Spermophilus dauricus
+Urocitellus beldingi creber
+Urocitellus beldingi
+Otospermophilus atricapillus
+Urocitellus armatus
+Notocitellus annulatus
+Spermophilus alashanicus
+Notocitellus adocetus
+Cynomys parvidens
+Cynomys mexicanus
+Cynomys leucurus
+Cryptomys sp. H650
+Petromuridae
+Peromyscus levipes ambiguus
+Peromyscus simulus
+Peromyscus beatae
+Zapus trinotatus
+Zapus
+Zapodinae
+Ellobius tancrei
+Synaptomys borealis
+Synaptomys
+Alticola macrotis
+Alticola
+Microtus longicaudus
+Peromyscus boylii utahensis
+Peromyscus boylii rowleyi
+Peromyscus boylii glasselli
+Peromyscus boylii boylii
+Peromyscus stephani
+Peromyscus sp.
+Peromyscus sagax
+Peromyscus polius
+Peromyscus pectoralis pectoralis
+Peromyscus pectoralis
+Peromyscus nasutus
+Peromyscus madrensis
+Peromyscus levipes levipes
+Peromyscus levipes
+Peromyscus gratus
+Peromyscus difficilis
+Peromyscus attwateri
+Rattus sp. 95728
+Rattus tunneyi tunneyi
+Rattus leucopus leucopus
+Rattus fuscipes assimilis
+Rattus tunneyi culmorum
+Rattus leucopus cooktownensis
+Rattus fuscipes fuscipes
+Rattus fuscipes coracius
+Dipodomys microps
+Dipodomys merriami
+Rhizomys pruinosus pruinosus
+Marmota vancouverensis
+Marmota sibirica
+Marmota olympus
+Marmota menzbieri
+Marmota himalayana
+Marmota flaviventris
+Marmota camtschatica
+Marmota caligata
+Marmota broweri
+Marmota bobak
+Marmota baibacina
+Acomys cineraceus
+Dicrostonyx hudsonius
+Dicrostonyx richardsoni
+Massoutiera mzabi
+Massoutiera
+Ctenodactylus vali
+Ctenomys rosendopascuali
+Rattus fuscipes greyii
+Stenocephalemys albocaudata
+Stenocephalemys griseicauda
+Stenocephalemys
+Myomys
+Hypogeomys antimena
+Hypogeomys
+Sigmodon fulviventer
+Reithrodontomys mexicanus
+Rhipidomys sp. 2
+Pearsonomys
+Thaptomys nigrita
+Wilfredomys pictipes
+Delomys sublineatus
+Wiedomys
+Wilfredomys sp.
+Wilfredomys
+Scapteromys tumidus
+Scapteromys
+Nesoryzomys fernandinae
+Nesoryzomys
+Loxodontomys micropus
+Kunsia tomentosus
+Kunsia
+Delomys dorsalis
+Delomys
+Chilomys instans
+Chilomys
+Blarinomys breviceps
+Blarinomys
+Thomasomys sp.
+Thomasomys oreas
+Thomasomys notatus
+Thomasomys gracilis
+Thomasomys daphne
+Scotinomys xerampelinus
+Rhipidomys wetzeli
+Rhipidomys nitela
+Rhipidomys mastacalis
+Rhipidomys macconnelli
+Reithrodontomys sumichrasti
+Peromyscus truei
+Oxymycterus iheringi
+Hylaeamys megacephalus
+Holochilus sciureus
+Eligmodontia morgani
+Abrothrix andina
+Petaurista philippensis
+Petaurista alborufus
+Arvicola sapidus
+Microtus montanus
+Ctenomys torquatus
+Ctenomys rionegrensis
+Ctenomys pearsoni
+Ctenomys flamarioni
+Dicrostonyx groenlandicus
+Dicrostonyx torquatus
+Dicrostonyx
+Neotoma magister
+Lemmus trimucronatus
+Lemmus sibiricus
+Glaucomys volans volans
+Glaucomys sabrinus californicus
+Glaucomys oregonensis
+Glaucomys sabrinus fuliginosus
+Glaucomys sabrinus yukonensis
+Glaucomys sabrinus sabrinus
+Glaucomys sabrinus macrotis
+Glaucomys sabrinus lucifigus
+Glaucomys sabrinus coloratus
+Glaucomys volans saturatus
+Glaucomys sabrinus fuscus
+Guerlinguetus aestuans
+Lagidium viscacia
+Lagidium
+Niviventer fulvescens
+Mus famulus
+Acomys kempi
+Sundamys muelleri
+Sundamys
+Berylmys bowersi
+Berylmys
+Niviventer niviventer
+Leopoldamys edwardsi
+Rattus tiomanicus
+Rattus moluccarius
+Rattus baluensis
+Rattus argentiventer
+Lophuromys sikapusi
+Acomys cilicicus
+Acomys nesiotes
+Acomys minous
+Acomys percivali
+Eothenomys melanogaster
+Eothenomys imaizumii
+Myodes regulus
+Eothenomys
+Leggadina lakedownensis
+Leggadina forresti
+Leggadina
+Steatomys sp.
+Steatomys
+Acomys johannis
+Acomys subspinosus
+Mus musculus gentilulus
+Lemmus lemmus
+Lemmus
+Holochilus vulpinus
+Holochilus brasiliensis
+Holochilus
+Microtus mexicanus
+Microtus ochrogaster
+Ctenomys coyhaiquensis
+Callospermophilus lateralis
+Cratogeomys neglectus
+Thryonomyidae
+Trichys fasciculata
+Trichys
+Dipus sagitta
+Dipus
+Scarturus elater
+Allactaga
+Coendou melanurus
+Tokudaia osimensis osimensis
+Tokudaia osimensis
+Tokudaia
+Geomys texensis
+Geomys attwateri
+Rattus sp. 71813
+Marmota caudata
+Rattus colletti
+Dasymys incomtus
+Dasymys
+Hybomys univittatus
+Hybomys
+Myopus schisticolor
+Myopus
+Rattus everetti
+Mastomys sp.
+Beamys hindei
+Beamys
+Arvicanthis nairobae
+Microtus cabrerae
+Abrothrix olivaceus olivaceus
+Abrothrix olivaceus canescens
+Abrothrix olivaceus brachiotis
+Abrothrix olivaceus beatus
+Rodentia sp.
+unclassified Rodentia
+Maxomys whiteheadi
+Niviventer cremoriventer
+Niviventer
+Maxomys surifer
+Maxomys
+Bandicota bengalensis
+Bandicota
+Rattus andamanensis
+Rattus satarae
+Rattus losea
+Rattus flavipectus
+Leopoldamys sabanus
+Rattus sp. T-612
+Peromyscus polionotus ammobates
+Glaucomys volans
+Pteromys momonga
+Funambulus pennantii
+Tamias sibiricus
+Tamias amoenus
+Callosciurus notatus
+Callosciurus erythraeus
+Callosciurus prevostii
+Funambulus
+Callosciurus caniceps
+Callosciurus
+Ctenomys sp.
+Ctenomys yolandae
+Ctenomys roigi
+Ctenomys pilarensis
+Ctenomys nattereri
+Ctenomys dorbignyi
+Ctenomys bergi
+Ctenomys argentinus
+Cryptomys hottentotus natalensis
+Cryptomys hottentotus hottentotus
+Fukomys darlingi
+Fukomys choma
+Fukomys bocagei
+Ctenomys sp. NK21303
+Ctenomys sp. NK12404
+Ctenomys sp. NK12406
+Ctenomys sp. NK22840
+Ctenomys sp. NK12221
+Tympanoctomys barrerae
+Tympanoctomys
+Spalacopus cyanus
+Spalacopus
+Ctenomys steinbachi
+Ctenomys opimus
+Ctenomys mendocinus
+Ctenomys lewisi
+Ctenomys leucodon
+Ctenomys haigi
+Ctenomys goodfellowi
+Ctenomys frater
+Ctenomys conoveri
+Apodemus argenteus
+Macrotarsomys ingens
+Lemniscomys bellieri
+Arvicanthis sp.
+Arvicanthis somalicus
+Arvicanthis niloticus
+Arvicanthis dembeensis
+Arvicanthis abyssinicus
+Arvicanthis
+Aethomys sp.
+Aethomys
+Acomys spinosissimus
+Acomys russatus
+Acomys ignitus
+Acomys dimidiatus
+Acomys sp.
+Mus musculoides
+Phyllotis xanthopygus
+Phyllotis wolffsohni
+Phyllotis osilae
+Phyllotis osgoodi
+Phyllotis magister
+Phyllotis limatus
+Phyllotis andium
+Phyllotis amicus
+Auliscomys sublimis
+Mus musculus x Cricetulus griseus hybrid cell line
+unclassified Muridae
+Mus musculus molossinus
+Peromyscus winkelmanni
+Peromyscus spicilegus
+Peromyscus hylocetes
+Peromyscus aztecus oaxacensis
+Peromyscus aztecus evides
+Peromyscus aztecus aztecus
+Peromyscus aztecus
+Podomys floridanus
+Podomys
+Isthmomys pirrensis
+Isthmomys
+Habromys lophurus
+Habromys
+Peromyscus mexicanus
+Peromyscus boylii
+Phenacomys intermedius
+Phenacomys
+Mystromys albicaudatus
+Mystromys
+Mystromyinae
+Scotinomys teguina
+Scotinomys
+Reithrodon auritus
+Reithrodon
+Phyllotis
+Oxymycterus rufus
+Ochrotomys nuttalli
+Ochrotomys
+Nyctomys sumichrasti
+Nyctomys
+Nelsonia neotomodon
+Nelsonia
+Eligmodontia typus
+Eligmodontia
+Baiomys taylori
+Baiomys
+Necromys lactens
+Neotoma lepida
+Sigmodon ochrognathus
+Reithrodontomys fulvescens
+Calomys musculinus
+Calomys laucha
+Calomys callosus
+Ctenomys talarum
+Petaurista petaurista
+Petaurista leucogenys
+Petaurista
+Sciuridae
+Pteromys volans
+Pteromys
+Sciurus lis
+Sciurus vulgaris
+Glirulus japonicus
+Glirulus
+Dryomys nitedula
+Dryomys
+Leithiinae
+Apodemus flavicollis
+Lemniscomys barbarus
+Lemniscomys
+undetermined Sciuridae 'chipmunks'
+Urocitellus brunneus
+Octodon lunatus
+Hesperosciurus griseus
+Eliomys quercinus
+Eliomys
+Rhizomys pruinosus
+Rhizomys
+Rhizomyinae
+Sicista tianschanica
+Sicista
+Sicistinae
+Nesomys rufus
+Nesomys
+Menetes berdmorei
+Menetes
+Macrotarsomys
+Nesomyinae
+Gerbillus henleyi
+Nesokia indica
+Nesokia
+Lophuromys flavopunctatus
+Lophuromys
+Graphiurus murinus
+Graphiurus
+Graphiurinae
+Glirinae
+Aplodontia rufa
+Aplodontia
+Aplodontiidae
+Castor canadensis
+Jaculus jaculus
+Thomomys bottae ruidosae
+Thomomys bottae pervagus
+Thomomys bottae opulentus
+Thomomys bottae guadalupensis
+Thomomys bottae fulvus
+Thomomys bottae cultellus
+Thomomys bottae analogus
+Thomomys bottae actuosus
+Urocitellus columbianus
+Thomomys umbrinus
+Thomomys monticola
+Thomomys mazama
+Dipodomys agilis
+Tachyoryctes splendens
+Tachyoryctes
+Gerbillurus vallinus
+Gerbillurus
+Jaculus orientalis
+Jaculus
+Sciurus sp.
+Psammomys obesus
+Psammomys
+Scolomys juruaense
+Scolomys
+Oecomys trinitatis
+Oecomys sp. JUR 354
+Oecomys superans
+Oecomys roberti
+Oecomys bicolor
+Oecomys
+Euryoryzomys nitidus
+Oligoryzomys microtis
+Euryoryzomys macconnelli
+Neacomys spinosus
+Pedetes capensis subsp. surdaster
+Paraxerus cepapi
+Paraxerus
+Phodopus campbelli
+Microtus arvalis
+Mus musculus wagneri
+Ammospermophilus leucurus
+Ammospermophilus harrisii
+Ammospermophilus interpres
+Ammospermophilus
+Sciurillus pusillus
+Sciurillus
+Glaucomys sabrinus
+Glaucomys
+Cynomys ludovicianus
+Cynomys gunnisoni
+Cynomys
+Microsciurus flaviventer
+Microsciurus
+Tamias striatus
+Simosciurus stramineus
+Otospermophilus variegatus
+Xerospermophilus spilosoma
+Poliocitellus franklinii
+Tamias quadrivittatus
+Tamias minimus
+Tamias dorsalis
+Tamias canipes
+Peromyscus slevini
+Peromyscus sejugis
+Peromyscus maniculatus coolidgei
+Peromyscus maniculatus rufinus
+Peromyscus maniculatus austerus
+Peromyscus maniculatus interdictus
+Peromyscus maniculatus oreas
+Reithrodontomys megalotis
+Reithrodontomys
+Thrichomys apereoides
+Thrichomys
+Euryzygomatomys spinosus
+Euryzygomatomys
+Trinomys setosus
+Ctenomys sociabilis
+Coendou bicolor
+Coendou
+Myoprocta pratti
+Myoprocta
+Ictidomys tridecemlineatus
+Proechimys simonsi
+Trinomys sp. MN-31459
+Trinomys sp. PEU-880027
+Trinomys iheringi
+Trinomys dimidiatus
+Trinomys eliasi
+Trinomys paratus
+Trinomys
+Peromyscus californicus
+Sigmodon mascotensis
+Sigmodon hispidus
+Sigmodon
+Peromyscus polionotus
+Peromyscus melanotis
+Peromyscus gossypinus
+Peromyscus eremicus
+Neotoma floridana
+Neotoma albigula
+Neotoma
+Dasyprocta leporina
+Spalax zemni
+Uranomys ruddi
+Uranomys
+Mus mattheyi
+Mus crociduroides
+Mastomys erythroleucus
+Leopoldamys
+Hylomyscus stella
+Gerbilliscus gambianus
+Tatera
+Glis glis
+Glis
+Dipodillus campestris
+Dendromurinae
+Cricetomyinae
+Sigmodontinae
+Calomyscinae
+Gerbillus nigeriae
+Mus musculus musculus
+Murinae gen. sp.
+Murinae
+Arvicolinae
+Ellobius
+Muscardinus avellanarius
+Muscardinus
+Apodemus agrarius
+Geomys personatus subsp. megapotamus
+Geomys bursarius halli
+Onychomys arenicola
+Chaetodipus formosus
+Perognathus fasciatus
+Perognathus flavescens
+Onychomys torridus
+Chaetodipus pernix
+Chaetodipus penicillatus
+Perognathus parvus
+Perognathus merriami
+Perognathus longimembris
+Onychomys leucogaster
+Onychomys
+Chaetodipus intermedius
+Chaetodipus hispidus
+Chaetodipus
+Perognathinae
+Dipodomyinae
+Perognathus inornatus
+Perognathus amplus
+Cratogeomys goldmani subsp. rubellus
+Urocitellus richardsonii
+Cratogeomys bursarius
+Cavia aperea
+Perognathus flavus
+Perognathus
+Cratogeomys castanops
+Osgoodomys banderanus
+Osgoodomys
+Malacothrix typica
+Malacothrix
+Acomys wilsoni
+Meriones shawi
+Neacomys sp.
+Neacomys
+Microryzomys minutus
+Microryzomys
+Cerradomys subflavus
+Oryzomys palustris
+Oligoryzomys sp.
+Oligoryzomys vegetus
+Oligoryzomys nigripes
+Oligoryzomys chacoensis
+Oligoryzomys andinus
+Uromys caudimaculatus
+Uromys hadrourus
+Uromys
+Melomys cervinipes
+Melomys burtoni
+Melomys
+Cricetinae gen. sp.
+Mus musculus x Rattus norvegicus
+Myodes rufocanus bedfordiae
+Eremodipus lichtensteini
+Eremodipus
+Dipodinae
+Allactodipus bobrinskii
+Allactodipus
+Allactaginae
+Rattus tanezumi
+Zygogeomys trichopus
+Zygogeomys
+Heterogeomys underwoodi
+Heterogeomys cherriei
+Orthogeomys
+Thomomys talpoides
+Geomys personatus
+Mastomys coucha
+Mus musculus bactrianus
+Otospermophilus beecheyi
+Sciurus niger
+Cratogeomys goldmani
+Hylomyscus alleni
+Hylomyscus
+Stochomys longicaudatus
+Stochomys
+Rattus exulans
+Praomys erythroleucus
+Dasyprocta punctata
+Dasyprocta
+Erethizon dorsatum
+Erethizon
+Capromys pilorides
+Capromys
+Chinchilla lanigera
+Ctenomys boliviensis
+Proechimys longicaudatus
+Atherurus macrourus
+Atherurus
+Sciuromorpha
+Ctenomys porteousi
+Ctenomys
+Hystricomorpha
+Geomys breviceps sagittalis
+Geomys breviceps breviceps
+Geomys breviceps
+Geomys bursarius major
+Gliridae
+Erethizontidae
+Dipodidae
+Dasyproctidae
+Ctenomyidae
+Capromyidae
+Sciurus carolinensis
+Mastomys
+Nannospalax leucodon
+Nannospalax ehrenbergi
+Nannospalax
+Necromys lasiurus
+Microtus levis
+Mesomys stimulax
+Mesomys sp.
+Mesomys hispidus
+Mesomys
+Isothrix pagurus
+Isothrix bistriata
+Isothrix
+Makalata didelphoides
+Echimys chrysurus
+Echimys
+Dactylomys dactylinus
+Dactylomys boliviensis
+Dactylomys
+Chinchilla sp.
+Neotamias
+Castoridae
+Thomasomys aureus
+Thomasomys
+Rhipidomys leucodactylus
+Rhipidomys
+Oxymycterus paramensis
+Oxymycterus hiska
+Oxymycterus delator
+Oxymycterus
+Oryzomys
+Oligoryzomys
+Notiomys edwardsii
+Notiomys
+Nectomys squamipes
+Nectomys
+Lenoxus apicalis
+Lenoxus
+Irenomys tarsalis
+Irenomys
+Geoxus valdivianus
+Geoxus
+Paynomys macronyx
+Chelemys
+Calomys lepidus
+Calomys
+Auliscomys pictus
+Auliscomys
+Akodon urichi
+Akodon toba
+Akodon siberiae
+Akodon orophilus
+Abrothrix olivaceus
+Akodon cursor
+Akodon azarae
+Abrothrix longipilis
+Microtus agrestis
+Dolichotis patagonum
+Dolichotis
+Geomys knoxjonesi x Geomys bursarius major
+Geomys knoxjonesi
+Geomys bursarius
+Mus booduga
+Tamias
+Pappogeomys bulleri
+Cratogeomys
+Geomys
+Cratogeomys tylorhinus
+Cratogeomys merriami
+Cratogeomys gymnurus
+Cratogeomys goldmani goldmani
+Cratogeomys fumosus
+Cratogeomys castanops subsp. tamaulipensis
+Cratogeomys castanops castanops
+Micromys minutus
+Micromys
+Clethrionomys
+Gerbillus sp.
+Gerbillus
+Castor fiber
+Castor
+Petromus typicus
+Petromus
+Heterocephalus glaber
+Heterocephalus
+Heliophobius argenteocinereus
+Heliophobius
+Georychus capensis
+Georychus
+Cryptomys hottentotus
+Cryptomys
+Bathyergus suillus
+Bathyergus janetta
+Bathyergus
+Thryonomys swinderianus
+Thryonomys
+Bathyergidae
+Ctenodactylus gundi
+Ctenodactylus
+Ctenodactylidae
+Proechimys guairae
+Proechimys
+Echimyidae
+Octodon degus
+Octodon
+Octodontidae
+Myocastor coypus
+Myocastor
+Myocastoridae
+Lagostomus maximus
+Lagostomus
+Chinchilla chinchilla
+Chinchilla
+Chinchillidae
+Hydrochoerus hydrochaeris
+Hydrochoerus
+Hydrochaeridae
+Galea musteloides
+Galea
+Cavia cutleri
+Cavia sp.
+Cavia porcellus
+Cavia
+Caviidae
+Hystrix africaeaustralis
+Hystrix cristata
+Hystrix
+Hystricidae
+Calomyscus sp.
+Calomyscus
+Apodemus sylvaticus
+Apodemus
+Conilurus penicillatus
+Conilurus
+Rattus villosissimus
+Rattus tunneyi
+Rattus sordidus
+Rattus fuscipes
+Rattus sp.
+Rattus rattus
+Rattus norvegicus
+Rattus leucopus
+Rattus
+Praomys daltoni
+Mastomys natalensis
+Praomys
+Mus abbotti
+Mus minutoides
+Mus spicilegus
+Mus setulosus
+Mus platythrix
+Mus macedonicus
+Mus cookii
+Mus cervicolor
+Mus spretus
+Mus sp.
+Mus saxicola
+Mus pahari
+Mus musculus domesticus
+Mus musculus castaneus
+Mus musculus
+Mus caroli
+Mus
+Akodon mimus
+Cricetomys gambianus
+Cricetomys
+Necromys amoenus
+Akodon torques
+Akodon subfuscus
+Akodon lutescens puer
+Akodon mollis
+Akodon kofordi
+Akodon juninensis
+Akodon boliviensis
+Akodon aerosus
+Akodon
+Acomys cahirinus
+Acomys
+Muridae
+Spalax
+Spalacinae
+Ondatra zibethicus
+Ondatra
+Microtus pennsylvanicus
+Microtus chrotorrhinus
+Microtus xanthognathus
+Microtus
+Arvicola
+Meriones unguiculatus
+Meriones
+Gerbillinae
+Phodopus sungorus
+Phodopus
+Peromyscus maniculatus
+Peromyscus leucopus
+Peromyscus
+Mesocricetus sp.
+Mesocricetus brandti
+Mesocricetus auratus
+Mesocricetus
+Cricetus cricetus
+Cricetus
+Cricetulus sp.
+Cricetulus longicaudatus
+Cricetulus griseus
+Cricetulus
+Cricetinae
+Pedetes capensis
+Pedetes
+Pedetidae
+Dipodomys ordii
+Dipodomys panamintinus
+Dipodomys heermanni
+Dipodomys californicus
+Dipodomys
+Heteromyidae
+Thomomys bottae
+Thomomys townsendii
+Thomomys
+Geomyidae
+Tamiasciurus hudsonicus
+Tamiasciurus
+Sciurus aberti
+Sciurus aberti kaibabensis
+Sciurus aberti ferreus
+Sciurus aberti chuscensis
+Sciurus aberti barberi
+Sciurus aberti aberti
+Sciurus
+Urocitellus parryii
+Spermophilus citellus
+Spermophilus
+Marmota monax
+Marmota marmota marmota
+Marmota marmota
+Marmota
+Sciurinae
+Rodentia
+rodent
+wild rodent
+rodent
+Rodent
+wild rat
+rat
+vole
+Apodemus sylvaticus (wood mouse)
