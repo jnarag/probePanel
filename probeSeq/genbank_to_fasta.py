@@ -21,15 +21,11 @@ month_to_num = {'Jan': 1, 'Feb': 2, 'Mar': 3, 'Apr': 4, 'May': 5, 'Jun': 6, 'Jul
 #
 # hantavirus_min_lengths = {"S": 845, "M": 2200, "L": 4200}
 
-### TAXONOMY LIST
-
-filename = "/Users/jayna/Evolve.Zoo Dropbox/Jayna Raghwani/PycharmProjects/processGenbank/probePanel/taxonomy_result.txt"
-
 
 def gb_to_fasta__henipavirus(gb_file, out_fastafile):
     ### GENBANK FILE ###
-    # create a variable to read your genbank file (i.e. gb_file). Note "rU", which indicates the file is readable.
-    input_handle = open(gb_file, "rU")
+    # create a variable to read your genbank file (i.e. gb_file). Note "r", which indicates the file is readable.
+    input_handle = open(gb_file, "r")
     count = 0
 
     ### OUTPUT FASTA FILE ###
@@ -257,9 +253,10 @@ def gb_to_fasta__henipavirus(gb_file, out_fastafile):
 
 
 def process_gb(gb_file, working_dir, virus_family, min_length, host_taxafile):
+
     ### GENBANK FILE ###
-    # create a variable to read your genbank file (i.e. gb_file). Note "rU", which indicates the file is readable.
-    input_handle = open(gb_file, "rU")
+    # create a variable to read your genbank file (i.e. gb_file). Note "r", which indicates the file is readable.
+    input_handle = open(gb_file, "r")
     count = 0
 
     ### METADATA FILE ###
@@ -471,8 +468,8 @@ def process_gb(gb_file, working_dir, virus_family, min_length, host_taxafile):
 def process_gb_seg(gb_file, working_dir, virus_family, segment_length, segments, host_taxafile):
     product_gene_list = []
     ### GENBANK FILE ###
-    # create a variable to read your genbank file (i.e. gb_file). Note "rU", which indicates the file is readable.
-    input_handle = open(gb_file, "rU")
+    # create a variable to read your genbank file (i.e. gb_file). Note "r", which indicates the file is readable.
+    input_handle = open(gb_file, "r")
     count = 0
 
     ### METADATA FILE ###
