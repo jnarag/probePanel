@@ -1,5 +1,7 @@
 
-## Instructions to run probeSeq code
+## Instructions 
+
+Please see guidelines below to run this code.
 
 ### Setup conda environment 
 

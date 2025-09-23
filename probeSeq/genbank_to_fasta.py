@@ -513,7 +513,11 @@ def process_gb_seg(gb_file, working_dir, virus_family, segment_length, segments,
             species_or_genus = "unclassified " + taxonomy[7]
 
         elif taxonomy_length == 9:
-            species_or_genus = taxonomy[8]
+
+            if "Mammarenavirus" in record.features[0].qualifiers['organism'][0]:
+                species_or_genus = record.features[0].qualifiers['organism'][0]
+            else:
+                species_or_genus = taxonomy[8]
 
         elif taxonomy_length == 10:
 
@@ -539,7 +543,7 @@ def process_gb_seg(gb_file, working_dir, virus_family, segment_length, segments,
         country = "NA"
         t_date = "NA"
         accession_no = record.annotations['accessions'][0]
-        organism = features_qualifiers['organism'][0]
+        organism = features_qualifiers['organism'][0].replace(" ", "..")
 
         # Get the Pubmed id of the publication associated with the record/sequence
         reference = record.annotations['references'][0]
@@ -731,6 +735,102 @@ def process_gb_seg(gb_file, working_dir, virus_family, segment_length, segments,
 
     input_handle.close()
     out_tablefile_handle.close()
+
+def get_gene_names(gb_file, host_taxafile):
+
+    product_gene_list = []
+    ### GENBANK FILE ###
+    # create a variable to read your genbank file (i.e. gb_file). Note "r", which indicates the file is readable.
+    input_handle = open(gb_file, "r")
+    count = 0
+
+
+
+    with open(host_taxafile) as f:
+        rodentia_taxa = f.read().splitlines()
+
+    ### PROCESS GENBANK FILE ###
+
+    for index, record in enumerate(SeqIO.parse(input_handle, "genbank")):
+
+        # For each record in the genbank file, extracts the different subfields (or qualifiers) in the FEATURES field
+        features_qualifiers = record.features[0].qualifiers
+
+        # strain_name = record.annotations['accessions'][0]
+
+        # Metadata / fields we are interested in extracting per sequence
+        name = ""
+        host = "NA"
+
+
+        # Extracting which host the sequence was obtained from. This could be stored in /host= field or /isolation source
+        if 'host' in features_qualifiers.keys():
+
+            host = features_qualifiers['host'][0]
+
+            if (host in rodentia_taxa):
+                host = str(host).replace(' ', ':')
+            else:
+                continue
+
+            # [optional] print out host to screen to see how the above line changes the output
+
+        elif 'isolation_source' in features_qualifiers.keys():
+            host = features_qualifiers['isolation_source'][0]
+
+            if (host in rodentia_taxa):
+                host = str(host).replace(' ', ':')
+            else:
+                continue
+
+        if 'Homo' in host:
+            continue
+
+        if "strain" in host or "NA" in host:
+            continue
+
+        if 'note' in features_qualifiers.keys():
+            notes = features_qualifiers['note'][0]
+
+            if 'experiment' in notes or 'vaccine' in notes:
+                continue
+
+        if 'lab_host' in features_qualifiers.keys():
+            continue
+
+        count += 1
+
+
+        for f in record.features:
+            if f.type == "CDS":
+                # print(index, f.qualifiers.keys())
+
+                product_or_gene = "NULL"
+                if ("product" in f.qualifiers.keys()):
+
+                    product_or_gene = f.qualifiers["product"][0]
+                    product_gene_list.append(f.qualifiers["product"][0])
+
+                elif ("gene" in f.qualifiers.keys()):
+                    product_or_gene = f.qualifiers["gene"][0]
+                    product_gene_list.append(f.qualifiers["gene"][0])
+
+                if (product_or_gene in ["hypothetical protein", "polyprotein"]):
+
+                    if ("segment" in record.features[0].qualifiers.keys()):
+                        product_or_gene = record.features[0].qualifiers["segment"][0] + " protein"
+                        product_gene_list.append(product_or_gene)
+
+
+
+        #     new_record = Bio.SeqRecord.SeqRecord(name=name, seq=record.seq)
+        #
+
+    # retain unique protein / gene names:
+    product_gene_list = list(dict.fromkeys(product_gene_list))
+
+    return product_gene_list
+
 
 
 def is_number(s):
