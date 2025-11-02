@@ -290,19 +290,21 @@ def process_gb(gb_file, working_dir, virus_family, min_length, host_taxafile):
         # extract genus of virus sequence
         taxonomy = record.annotations["taxonomy"]
 
-        if(virus_family == "Coronaviridae" and len(taxonomy) > 10):
+        if(virus_family == "Coronaviridae" and len(taxonomy) > 9):
 
-            species = taxonomy[10]
-        elif(virus_family == "Phenuiviridae" and len(taxonomy) > 9):
+            species = taxonomy[8] + ":" + taxonomy[9]
 
-            species = taxonomy[9]
-        elif(virus_family == "Rhabdoviridae" and len(taxonomy) > 10):
-            species = taxonomy[10]
+        elif(virus_family == "Phenuiviridae" and len(taxonomy) > 8):
+
+            species = taxonomy[7] + ":" + taxonomy[8]
+        elif(virus_family == "Rhabdoviridae" and len(taxonomy) > 9):
+            species = taxonomy[8] + ":" + taxonomy[9]
 
         elif (len(taxonomy) >= 9):
-            species = taxonomy[8]
+            species = taxonomy[7] + ":" + taxonomy[8]
         else:
-            species = taxonomy[len(taxonomy) - 1]
+            species = taxonomy[len(taxonomy) - 2] + ":" + taxonomy[len(taxonomy) - 1]
+
 
         # For each record in the genbank file, extracts the different subfields (or qualifiers) in the FEATURES field
         features_qualifiers = record.features[0].qualifiers
