@@ -297,13 +297,19 @@ def process_gb(gb_file, working_dir, virus_family, min_length, host_taxafile):
         elif(virus_family == "Phenuiviridae" and len(taxonomy) > 8):
 
             species = taxonomy[7] + ":" + taxonomy[8]
+            print(species)
+
         elif(virus_family == "Rhabdoviridae" and len(taxonomy) > 9):
+
             species = taxonomy[8] + ":" + taxonomy[9]
 
         elif (len(taxonomy) >= 9):
+
             species = taxonomy[7] + ":" + taxonomy[8]
+
         else:
             species = taxonomy[len(taxonomy) - 2] + ":" + taxonomy[len(taxonomy) - 1]
+            print(species)
 
 
         # For each record in the genbank file, extracts the different subfields (or qualifiers) in the FEATURES field
@@ -516,12 +522,16 @@ def process_gb_seg(gb_file, working_dir, virus_family, segment_length, segments,
         # extract genus of virus sequence
         taxonomy = record.annotations["taxonomy"]
 
+
         # print(len(taxonomy), taxonomy)
 
         species_or_genus = "NA"
         taxonomy_length = len(taxonomy)
         if taxonomy_length == 8:
             species_or_genus = "unclassified " + taxonomy[7]
+
+        elif(virus_family == "Phenuiviridae" and len(taxonomy) > 8):
+            species_or_genus = taxonomy[7] + ":" + taxonomy[8]
 
         elif taxonomy_length == 9:
 
